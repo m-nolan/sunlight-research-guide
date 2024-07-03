@@ -1,0 +1,1397 @@
+## Aircraft Photo Websites
+Links:
+
+- JetPhotos
+- PlaneSpotters
+
+
+Description: Planespotting enthusiasts take photos of airplanes and upload them to websites such as Planespotters.net and JetPhotos.com. These websites occasionally provide information on the beneficial owner or lessee of an aircraft that may not be available in official registration documents. For example, photos on JetPhotos.com show that President Obama used a jet with tail number N755NA during his campaign in 2008. With this tail number, we can use plane tracking websites, described below, to track the historical movements of the plane and look for relevant patterns. We can also submit public-record requests to the FAA for passenger manifests to identify individuals who have traveled with a candidate. In addition to searching on planespotting website, keep an eye out for any aircraft that appear in campaign photos or in the backgrounds of filmed campaign rallies. 
+
+Uses:
+Personal Finances
+
+ - Identify aircraft owned by a candidate or used by a candidate's campaign
+
+
+## Aircraft Tracking Websites
+Links:
+
+- ADS-B Exchange
+- FlightRadar24
+- FlightAware
+
+
+Description: Several websites provide real-time and historical location data on aircraft. The current location and itinerary of an aircraft is available for free, but data on historical movements dating back in time may require a purchase. 
+
+Uses:
+Personal Finances
+
+ - Track the current and historical movements of aircraft
+
+
+## Archive.Is
+Description: Although the Wayback Machine is an excellent resource for archived websites, Archive.IS serves a different function. It includes archives of social media content from different historical dates. 
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Identified archived social media such as deleted tweets
+
+
+## Calls to Employers
+Links:
+
+- Offline Resource
+
+
+Description: Calls to employers may allow us to verify a candidate's claimed professional history.
+
+Never make a phone call, even to verify a past job, without the prior authorization of Brandi.
+
+Uses:
+Professional History
+
+ - Verify a candidate's claimed professional history
+
+
+## Calls to University Registrars
+Links:
+
+- Offline Resource
+
+
+Description: Calling the university registrar is the most straightforward way to verify a claimed degree. However, some universities will not verify a candidate's degree without the candidate's signed authorization. In such cases, it may still be possible to verify the degree by finding a commencement program. Yearbooks, university press releases on notable aliumni, alumni newsletters, and archives of student newspaper articles are also all resources that can help verify a candidate's educational history. 
+
+Never make a phone call, even to verify a degree, without the prior authorization of Brandi.
+
+Uses:
+Educational History
+
+ - Verify a candidate's claimed education history
+
+
+## County and Municipal Building Permits
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Depending on the location of a property, county or municipal permits may be required for any significant construction affecting the property. Some local governments provide online databases of these permits, and records available through these databases can provide further details on the lifestyle of a candidate.
+
+Uses:
+Personal Finances
+
+ - Search for any building permits for a property
+
+
+## County and State Inmate Locator Databases
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Counties and states will vary widely in the public availability of inmate and arrest records. Whereas the Federal Bureau of Prisons inmate locator includes both current inmates and released inmates, many state and local databases include only currently incarcerated inmates. Find the available resources in the jurisdictions where the candidate has lived, and search for any arrest or inmate records. Generally, a county jail is operated by the county sheriff, and a state prison system is operated by a state department of corrections or equivalent authority. 
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify arrest and inmate records for a candidate
+
+
+## County-Level Elections Authority
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Generally, a county-level elections authority will generally maintain voter registration records and a history of past elections in which a registered voter cast a ballot. This information will generally need to be obtaiend through a public-records request. However, if a research can identify the relevant county authority and its rules of submitting such a request, it will spped up the research process.
+
+Uses:
+Political History
+
+ - Obtain information on the elections in which a candidate previously voted
+ - Verify a candidate's voter registration history
+
+
+## DOJ FARA Database
+Links:
+
+- https://efile.fara.gov/ords/fara/f?p=1235:10
+
+
+Description: Agents of foreign clients who seek to influence US policy must register as such with the Department of Justice. This is true for both foreign government clients and private sector clients. 
+
+Uses:
+Professional History and Associated People
+
+ - Identify any foreign clients of lobbyists or public relations firms
+
+
+## DOJ National Sex Offender Website
+Links:
+
+- https://www.nsopw.gov/
+
+
+Description: The Department of Justice operates this website, which includes information on registered sex offenders from all 50 states, the District of Columbia, Native American tribes, and US territories. The name search is self explanatory.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify registered sex ofender records naming a candidate
+
+
+## Delaware Court of Chancery
+Links:
+
+- https://secure.fileandservexpress.com/Login/Login.aspx
+
+
+Description: The Delaware Chancery Court is a specialized court that hears disputes over the internal affairs of Delaware companies. Its expertise is one of the reasons that many businesses from all over the country and the world incorporate in Delaware. Particularly for any candidate who has been associated with a Delaware company or other publicly traded company, we need to search for any cases naming the candidate in Delaware Chancery Court. 
+
+We use a database named File & Serve Express for this research. After logging in, use the "Search" dropdown menu to select "Cases Search." Limit your search to Delaware and the Court of Chancery, and then search by party name. Save and discuss any results with your case manager as it can be expensive to download filings from this database.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify any cases naming a candidate as a part in Delaware Court of Chancery
+
+Associated People
+
+ - Identify any associates named in court records
+ - Identify any litigation adversaries 
+
+
+## Department of Labor Form 5500 Database
+Links:
+
+- https://www.efast.dol.gov/5500search/
+
+
+Description: Under federal regulations, companies that offer 401k plans and certain other employee benefit plans must file Form 5500s with the Department of Labor. These provide intelligence on a company's employee headcount and changes to the company's business over time. For example, a candidate may claim to have managed a successful business, while Form 5500s filed with Department of Labor show that the number of participants in the company's 401k plan dwindled over time. Remember that companies may reduce the size of their workforce for reasons other than poor business performance, and many employees might not participate in a 401k plan. Some companies outsource their employee benefits to a third-party provider and do not file Form 5500s.
+
+Uses:
+Professional History
+
+ - Gather information on a company's employee headcount over time
+
+
+## FINRA Brokercheck
+Links:
+
+- https://brokercheck.finra.org/
+
+
+Description: Many finance professionals are registered with FINRA, the finance industry's self-regulatory organization. Disputes between finance professionals and their customers may be adjudicated by FINRA arbitration panels. FINRA Brokercheck allows members of the public to view a detailed report on anyone currently or historically registered with FINRA. The report includes any disciplinary history associated with the broker's license as well as a self-reported professional history for the broker.
+
+Uses:
+Professional History
+
+ - Search for securities broker licenses
+ - Identify any discplinary history associated with a securities broker license
+ - Find information on the emloyment history of a licensed securities broker
+
+
+## Facebook
+Links:
+
+- https://www.facebook.com/
+
+
+Description: Identify a candidate's Facebook profiles and review the content available publicly. Facebook's search function is no longer very helpful for anything beyond identifying profiles. If a candidate's profile is private, there may still be publicly available content on the profiles of his or her relatives and friends. Search for the profiles of a candidate's immediate relatives to find additional content that may not be available on the candidate's profile. 
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Review a candidate's Facebook activity 
+
+Associated People
+
+ - Identify Facebook users with whom a candidate has interacted
+
+
+## Federal Aviation Administration
+Links:
+
+- https://registry.faa.gov/aircraftinquiry/
+
+
+Description: The FAA allows searches by the name of an aircraft's registered owner. However, many aircraft are owned by companies or trusts. If you know of any companies the candidate controls, search for any aircraft they may own. If you have identified any aircraft in campaign photos or other sources, try to identify the tail number on the aircraft and search the FAA database by this number.
+
+Uses:
+Personal Finances
+
+ - Identify aircraft registered to a candidate or the candidate's known businesses
+
+
+## Federal Bureau of Prisons
+Links:
+
+- https://www.bop.gov/inmateloc/
+
+
+Description: As noted immediately above, this database includes both currently incarcerated and released inmates. Its search function is self explanatory. For any inmate identified, be sure to find any corresponding criminal cases in PACER.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify federal inmate records for a candidate
+
+
+## Federal Election Commission
+Links:
+
+- https://www.fec.gov/
+
+
+Description: The Federal Election Commission (FEC) collects campaign finance disclosure forms from candidates for federal elected office. Its database has several functions we will use regularly.
+
+In the "Campaign finance data" dropdown menu, choose, "Look up contributions from specific individuals." This will allow you to research any federal campaign contributions by a specific person, such as a candidate, dating back more than 20 years.
+
+Next, under the same dropdown menu, select "Committees." This will allow you to search for a candidate's offiical campaign committee. We want to browse both receipts and disbursements. The best way to analyze this data is to export it to Excel and then sort and filter it. Search for patterns in the data. Who are the candidate's largest supporters? Where are they from? What industries do they work in? How has the candidate spent campaign funds? Who are the campaign's largest vendors? What is the campaign's total amount of unitemized disbursements? (This can be estimated by comparing the total value of disbursements reported by the campaign and the total value of disbursements listed in the "Browse disbursements" page.
+
+Also of interest in the FEC database are any requests for additional information that the FEC has sent to a candidate's campaign committee. These highlight inconsistencies in a campaign committee's FEC filings or potential violations of regulations, such as donors who may have exceeded controbution limits.
+
+In the statement of organization for a candidate's official campaign committee, the campaign must disclose any joint fundraising committees in which it participates. These joint fundraising committees are arrangements that allow donors to make very large contributions, because funds are shared among each of the participants in the committee. For example, in the 2024 election cycle, an individual can make a maximum contribution of $6,600 to any one official campaign committee, but if giving to a joint fundraising committee composed of three different campaigns, the maximum individual contribution would tiple to $19,800.
+
+The FEC allows members of the public to browse data on independent expenditures, or campaign spending by nominally independent political action committees (PACs). From the FEC home page, click on the campaign finance dropdown menu, choose "Spending," and then click on the "Independent Expenditures" link. The filters in the lefthand panel allow you to view only independent expenditures supporting or opposing a speciifc candidate. This data will allow reseachers to identify the key PACs supporting a candidate. Unlike official campaign committees, Super PACs have no contribution limits, so large donors seeking to aggressively support a candidate will often direct most of their funds to these Super PACs. Super PACs are PACs that do not provide funds to other PACs, party committees or candidate committees but instead make only independent expenditures. It is illegal for PACs and campaigns to directly coordinate their spending, but in practice there is little to no enforcement of this rule. Identify the PACs supporting a candidate and then research its largest contributors, its officers and its vendors.
+
+Candidates who have previously run for elected office at the state or local level will have submitted campaign finance reports to the elections authorities in the relevant juridictions. The nature of this data will vary, but to the extent possible, we will seek to replicate our analysis of federal campaign finance data at the state and local level.
+
+Uses:
+Political History
+
+ - Look up federal campaign contributions made by specific individuals or organizations
+ - Obtain FEC filings for a candidate's campaign committee
+ - Obtain requests for additional information sent to a candidate's campaign
+ - Analyze a candidate's campaign receipts and expenditures
+
+Associated People
+
+ - Research a candidate's largest campaign donors
+ - Research a candidate's largest campaign vendors
+ - Identify any joint fundraising committees in which a campaign participates
+ - Identify any PACs or Super PACs supporting a candidate
+ - Identify the largest contributors and vendors to PACs and Super PACs
+ - Identify individuals who gave to the same candidate onthe same date
+
+
+## Federal Procurement Data System
+Links:
+
+- https://www.fpds.gov/fpdsng_cms/index.php/en/
+
+
+Description: This database is maintained by the US General Services Adminsitration and is complementary to the database described above. 
+
+Uses:
+Professional History
+
+ - Search for government contracts awarded to the candidate or his companies
+ - Search for Small Business Administration loans disbursed to the candidate or his companies, such as Paycheck Protection Program loans and Economic Injury Disaster Loans
+
+ Associated People
+
+ - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
+ - Search for Small Business Administration loans disbursed to the candidate's campaign donors, business associates and relatives
+
+
+## Follow the Money
+Links:
+
+- https://www.followthemoney.org/
+
+
+Description: Follow the Money aggregates campaign finance data from the federal, state and local level in a single online database. Because the FEC database is so useful, Follow the Money's primary value is in allowing a nationwide seach of state and local campaign finance data. As a secondary source, any findings from Follow the Money should be verified directly through the relevant elections authority. Searches should still be conducted directly in the databases of any elections authorities in the state and local jurisdictions where a canidate has lived. However, Follow the Money can help us check this research for completeness, and it can identify contributions that a candidate may have made in other jurisdictions, where we may not have known to search.
+
+Uses:
+Political History
+
+ - Search for campaign contributions from specific donors at the state and local level 
+
+
+## GSA System for Award Management
+Links:
+
+- https://sam.gov/content/home
+
+
+Description: Like the procurement database described immediately above, this database is maintained by the General Services Administration. In addition to providing information on public tenders for federal contracts, this database provides information on federal contractors that have been discplined for misconduct or barred from participating in future public tenders. 
+
+You will need to create a free account to use this database. When you search for a contractor, be sure that you search for both active and inactive contractors by using the options in the left-hand panel.
+
+Uses:
+Professional History
+
+ - Search for information of specific public tenders
+ - Search for companies and individuals registered as federal contractors
+ - Search for any disciplinary history or debarments affecting government contractors
+
+ Associated People
+
+ - Search for any disciplinary history or debarments affecting government contractors associated with campaign donors, business associates or relatives
+
+
+## Glassdoor
+Links:
+
+- https://www.glassdoor.com/index.htm
+
+
+Description: Because the reviews posted on Glassdoor are anonymous, they are not reliable by themselves, but they may raise issues for further research or interviews. You may need to register and leave a review of a former employer in order to view Glassdoor content.
+
+Uses:
+Professional History
+
+ - Read anonymous employee reviews of a candidate's companies
+
+
+## Google
+Links:
+
+- https://www.google.com/
+
+
+Description: Everyone knows how to use Google, but command of advanced Google search terms will aid your research. Most people are familiar with the use of quotation marks to search for an exact search term. To exclude a specific term from your results, enter it in the search bar preceded by a dash. For example, -Mintz would eliminate any pages with the term "Mintz" in them. The site: operator returns only results in a particular site or domain. For example, a search including site:.gov would return only results from the .gov domain. Finally, the filetype: operator allows you to return only documents of a certain fileype. For example, a search including filetype:pdf would return only pdf results. This article presents more advanced search term operators: https://ahrefs.com/blog/google-advanced-search-operators/  
+
+Uses:
+Google will be so ubiquitous in your research that it defies categorization. It will be necessary to locate many of the resources described elsewhere in this guide. For example, when searching for the Recorder of Deeds in a new jurisdiction, you will need to use Google to find it. 
+
+
+## Google Earth Pro
+Links:
+
+- https://www.google.com/earth/about/versions/#earth-pro
+
+
+Description: Download Google Earth Pro for Desktop to access all of Google Earth's features. After zooming to an area of interest, you can view historical satellite imagery by clicking the clock icon in the upper lefthand corner of the screen.
+
+Uses:
+Personal Finances
+
+ - View historical satellite images to analyze changes to a property over time
+
+
+## Google Maps Street View
+Links:
+
+- https://www.google.com/maps
+
+
+Description: From Google Maps, enter Street View by dragging the orange personicon onto the street you want to view. To view historical Street View images, click on the "See more dates" link in the top right of the screen.
+
+Uses:
+Personal Finances
+
+ - View historical street view images to analyze changes to a property over time
+
+
+## IRS Tax-Exempt Organization Search
+Links:
+
+- https://www.irs.gov/charities-non-profits/tax-exempt-organization-search
+
+
+Description: The IRS Tax-Exempt Organization search is an official repository of nonprofits records, including determination letters and annual reports, which are named IRS Form 990s. The database is only searchable by organization name or tax identification number.
+
+Uses:
+Nonprofits
+
+ - Verify the existence and nonprofit status of a charity
+ - Obtain copies of IRS determination letters conferring nonprofit status
+ - Obtain copies of IRS Form 990s, or annual nonprofit reports
+
+Associated People
+
+ - Identify individuals who have participated in the same nonprofits as a candidate
+
+
+## Instagram
+Links:
+
+- https://www.instagram.com/
+
+
+Description: Identify a candidate's Instagram profiles and review the content available publicly. Never "friend" or "follow a candididate on anysocial media platform in order to get acces to content that is otherwise not public.
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Review a candidate's Instagram activity 
+
+Associated People
+
+ - Identify Instagram users with whom a candidate has interacted
+
+
+## Intel Techniques Online Tools
+Links:
+
+- https://inteltechniques.com/tools/index.html
+
+
+Description: Intel Techniques is a website maintained by Michael Bazzell, an expert in open-source intelligence, cybersecurity and privacy. The site has a number of tools for open-source research based on phone numbers, email addresses and other data. The most useful tool may be the username search. Using any known usernames for a candidate, such as email addresses or handles for Twitter and Instagram, run the username searches available on Intel Techniques. These may identify other websites where the candidate has used the same usernames. 
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Find social media profiles of a candidate
+ - Use other open-source tools as needed
+
+
+## Law Enforcement Public-Record Requests
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Public-record requests to law enforcement agencies in the jurisdictions where a candidate has lived can identify police reports naming the candidate that did not result in charges and are therefore not documented in county case indexes. They can also provide otherwise unavailable details on incidents that did result in charges. The same is true of records on calls for service, or calls to 911 requesting service at the candidate's address. 
+
+Our partners will file these requests for us, but we need to compile a list of the relevant law enforcement agencies in order for them to do so. In any given jurisdiction, there will generally be a municipal or county police department -- sometimes both. There will also generally be a county sheriff's office, which is distinct from the county police. And at the state-level, there is generally a state police force, often called a state highway patrol or state troopers.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify police reports naming a candidate
+ - Find information on calls for service to a candidate's residence
+
+
+## Lexis Nexis
+Links:
+
+- lexisnexis.com
+
+
+Description: Lexis Nexis provides us access to a broad collection of media, much of which would otherwise be behind a paywall. It also has an advantage over Google in that its search returns any documents that match our search terms, whereas Google's algorithm may suppress unpopular results that are nevertheless valuable to our research. If a candidate has had a long career in politics or other closely watched industries, there may be a volume of coverage that makes it impossible to review every "hit" naming the candidate in Lexis Nexis. In these cases, you will need to design search threads to return more limited sets of documents. For example, a "bad word" search might look something like: FIRST NAME /2 LAST NAME AND (CORRUPTION OR FRAUD OR CONTROVERSY OR MISCONDUCT). 
+
+Uses:
+Background and Family
+
+ - FInd press coverage of a candidate and his or her family in their hometown
+
+Professional History
+
+ - Find press coverage of a candidate in the places where the candidate has lived and worked
+
+Political History
+
+ - Identify local issues related to a candidate and voters in his or her district or state
+
+
+## Library of Congress
+Links:
+
+- https://www.congress.gov/
+
+
+Description: This website maintains an official record of federal legislation and Congressional resolutions and can be researched for information on bills and resolutions sponsored by a Congressional member as well as roll call voting records for specific bills and resolutions.
+
+Uses:
+Political History
+
+ - Research bills and resolutions sponsored by a member of Congress
+ - Research the voting record of a member of Congress
+
+
+## LinkedIn
+Links:
+
+- https://www.linkedin.com
+
+
+Description: The basic features of LinkedIn should be familiar to most researchers. However, before conducting any project related research on LinkedIn, be sure that you are browsing in Private Mode. Navigate to the Settings and Privacy page, select Visibility in the left-hand panel, and click on "Profile Viewing Options." Select Private Mode, and you are ready to conduct research on LinkedIn without disclosing to other users each time you visit their profiles. 
+
+To identify former employees of specific companies, familiarize yourself with the Search feature's Filters, which will allow you to display a list of former employees of a specific company and narrow your results by other criteria such as location.
+
+In some cases, LinkedIn may not allow you to view the full profile of someone outside your network. It is often possible to bypass this restriction by copying the visible text of the profile and then pasting it into the Google search bar. Put the text in quotation marks, and limit your search to the LinkedIn domain by adding site:linkedin.com to your search terms. Your Google search results should include the profile of interest, and by clicking the Google hyperlink, you should be able to view the full profile.
+
+Uses:
+Background and Family
+
+ - Idenitfy the claimed educational and professional history of the candidate's spouse, children and other immediate relatives
+
+Professional History
+
+ - Identify the claimed professional history of the candidate
+
+Social Media
+
+ - Review any posts, comments, images, and reactions to examine the candidate's LinkedIn activity
+ - Reviewed any skills that the candidate claims and who has endorsed them
+ - Review any recommendations given or received
+ - Review any interests listed at the bottom of the profile
+
+Associated People
+
+ - Search for former employee, bosses, and colleagues
+ - Identify people with whom the candidate has interacted through posts, comments, reactions, recommendations, and endorsements
+
+
+## Local Newspapers
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Identify the newspapers of record in the places where a candidate has spent his or her professional career. Ensure that the Lexis Nexis news database includes comprehensive content from these newspapers. If it does not, we will subscribe for online access to any additional newspapers needed for the duration of our research. Ensure that we subscribe to any relevant, archived content available from these newspapers as well.
+
+Uses:
+Background and Family
+
+ - FInd press coverage of a candidate and his or her family in their hometown
+
+Professional History
+
+ - Find press coverage of a candidate in the places where the candidate has lived and worked
+
+Political History
+
+ - Identify local issues related to a candidate and voters in his or her district or state
+
+
+## Marriage Indexes
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Depending on the jurisdiction, there may be a publicly available index of marriage licenses, either at the county or the municipal level. See for example thge Miami-Dade County marriage license search (https://www2.miamidadeclerk.gov/mlsweb/licensesearch.aspx) or the New York City marriage index (https://www.nycmarriageindex.com/).  
+
+Uses:
+Background and Family
+
+ - Identify any current or previous marriages for the candidate
+
+
+## Medical Licensing Boards
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: State medical licensing boards generally provide information to the public on the qualifications and licensing of medical professionals. A call to the state regulator or public-record request may be necessary to obtain full copies of any license applications and related documents, which generally require disclosure of any criminal cases or civil judgments filed against the licensee.
+
+Uses:
+Professional History
+
+ - Verify a candidate's license to practice medicine
+ - Search for any disciplinary history associated with a medical license
+ - Search for any employment or address history associated with a medical license
+ - Verify a medical professional's educational history
+ - Search for any required diclosures, such as past criminal cases, by a licensee
+ - Verify the accuracy of disclosures made in licensing applications
+
+Associated People
+
+ - Identify a licensee's associates
+
+
+## Military Records
+Links:
+
+- https://www.archives.gov/personnel-records-center/ompf-access-public
+
+
+Description: The National Personnel Records Center of the National Archives provdes public access to certain military records pursuant to the Freedom of Infromation Act. These must be requested as detailed on the NRC website.
+
+Uses:
+Professional History
+
+ - Verify a candidate's claimed military service
+
+
+## Mugshots.com
+Links:
+
+- https://mugshots.com/
+
+
+Description: Despite its name, many of the entries in the mugshots.com database do not include mugshots but rather present details on the booking of a suspect into jail. Search results can be narrowed by state and county.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Search for mugshots and bookings of a candidate
+
+
+## Open Corporates
+Links:
+
+- https://opencorporates.com/
+
+
+Description: Open Corporates is a free database of companies across every state and many countries internationally. It allows users to search for companies by both company name and director name. By allowing a nationwide search of company data, Open Corporates helps identify companies in which the candidate may serve as an officer or director but which are chartered outside the states in which the candidate is known to have lived. For users who register and log in, Open Corporates also allows a search by registered address as one of its advanced search options. These searches should be conducted for each of the candidate's known addresses. As a secondary source, any information gathered from Open Corporates should be verified by obtaining copies of original documents from the relevant Secretaries of State.
+
+Uses:
+Professional History
+
+ - Search nationwide and internationally for companies in which the candidate has served as a director
+ - Search for companies registered at the candidate's known addresses
+
+Associated People
+
+ - Identify people who have been associated with the same companies as a candidate
+
+
+## Other Professional and Business Licensing Bodies
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Dozens of professions require some form of professional license in most states. These include realtors, CPAs, barbers, general contractors, and private investigators. Restaurants, bars and other retail businesses generally require a municipal license to operate. Licensing details and filings submitted to apply for these types of licenses can be invaluable resources. For example, an application for a liquor license likely needs to disclose the beneficial ownership of the establishment, a detail that is often not included in publicly filed corporate records. Many professionals and business owners also need to disclose any criminal cases or civil judgments filed against them when they apply for these licenses. Review whatever is available online and then consider calling the state or local agency that issued the license to learn what else is publicly available. If a state public-records request is necessary, file one immediately.
+
+Uses:
+Professional History
+
+ - Identify professional licenses held by a candidate
+ - Identify business licenses held by a candidate 
+ - Search for any required diclosures, such as past criminal cases, by a licensee
+ - Verify the accuracy of disclosures made in licensing applications
+ - Learn details about a business, such as its beneficial ownership and employee headcount
+
+Associated People
+
+ - Identify a candidate's business associates
+
+
+## PACER
+Links:
+
+- https://pacer.uscourts.gov/
+
+
+Description: PACER is the database for court records from federal trial and appeals courts. The PACER case index is searchable by case number or party name, and bankruptcy filings are also searchable by the Social Security number of the debtor. All bankruptcies are filed in federal court, so there is no other database to consult for bankruptcies. In most federal cases, all court records are publicly available through PACER, although some records will occasionally be sealed, and very old records will not be online. To access court records, click on the case link from the results page and then select and run the docket report. Be sure that you are not limiting the docket to a timeframe that does not encompass the entirety of the case. 
+
+To understand a case, at a minimum, you will need to read the complaint (or charging document in a criminal case), any opinons and orders on motions to dismiss, any answers filed by defendants, and any records related to the resolution of the case, whether a stipulation of dismissal, jury verdict, judgment, or other record. The same will be true of any state-level cases you identify. You may need to look up certain legal terminology that you encounter. Take your time with any cases and summarize them in clear, concise language as these are often the most important findings on any subject.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Search for any federal cases - either criminal or civil - in which a candidate is a party
+ - Search for any bankruptcy filings by a candidate
+
+
+Associated People
+
+ - Identify any associates named in court records
+ - Identify any litigation adversaries 
+
+
+## Personal Financial Disclosures
+Links:
+
+- Personal Financial Disclosure - House
+- Personal Financial Disclosure - Senate
+- Office of Government Ethics
+- State-level PFD websites and requirements vary by state
+
+
+Description: Most candidates for elected office are required to submit a personal financial disclosure. The Senate and House each maintain their own databases of financial disclosures, which include both annual financial disclosures and periodic transaction reports. Annual disclosures present a somewhat comprehensive but imprecise summary of a candidate's assets and liabilities, while periodic transaction reports disclose specific transactions in publicly traded securities, such as sales of publicly traded shares. 
+
+Candidates who have previously served in the executive branch of government may have filed annual financial disclosures and periodic transaction reports with the Office of Government Ethics. Some executive branch officials also sign ethics agreements requiring that they take certain steps to avoid conflicts of interest while in office. For example, a cabinet secretary may agree to recuse himself from any decisions related to a company for which he previously served as a director. These agreements are also maintained in the Office of Government Ethics database.
+
+Candidates who have previously held elected office at the state level will have filed financial disclosures with their state-level election authority, often the Secretary of State. The level of detail in these reports will vary from state to state, and it is not likely that any states require periodic transaction reports such as those required of members of Congress and executive branch officials.
+
+Uses:
+Personal Finances
+
+ - Determine which disclosures can be verified in other public records
+ - Determine whether the disclosure has omitted assets, income or debts identified in other records
+ - Identify additional information on a candidate's finances, such as the candidate's income range and the candidate's financial accounts
+ - Identify financial transactions disclosed by an elected official
+
+Associated People
+
+ - Review disclosures on the assets and income of a candidate's spouse
+ - Search for disclosures of gifts
+ - Identify business interests in which a candidate might have partners or associates
+
+
+## Pimeyes.com
+Links:
+
+- Pimeyes.com 
+
+
+Description: This appears to be the best available reverse image search option because unlike other searches, it uses facial recognition technology. This is almost certainly how pornographic videos of Virginia House of Delegates candidate Susanna Gibson were discovered. Save several photos of a candidate's face and then upload them to Pimeyes.com. Search results are impressive and can include photos from the candidate's youth and photos of the candidate in a crowd.
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Identify online content related to a candidate, even if the candidate's name is not associated with the content
+
+
+## Politwoops
+Links:
+
+- https://projects.propublica.org/politwoops/
+
+
+Description: Because of changes to Twitter's API, this Pro Publica database is no longer being updated. It is still useful as a repository of past deleted tweets.
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Identified tweets that politicians have deleted
+
+
+## ProPublica Nonprofit Explorer
+Links:
+
+- https://projects.propublica.org/nonprofits/
+
+
+Description: The ProPublica Nonprofit Explorer provides access to many of the same records as the IRS Tax-Exempt Organization Search. However, it allows a full-text search across IRS Form 990s, whereas the IRS database is only searchable by organization name. Thus, the ProPublica database allows researchers to search for nonprofits in which a specific person has served as an officer, director, key employee or key contractor. The full-text search can also identify organizations that received grants from nonprofits and individuals who made significant contributions to private foundations. The ProPublica database also sometimes has copies of Form 990s that are absent from the IRS database.
+
+Uses:
+Nonprofits
+
+ - Verify the existence and nonprofit status of a charity
+ - Obtain copies of IRS Form 990s, or annual nonprofit reports
+ - Search for references to a candidate in IRS Form 990s
+ - Search for references to a candidate's address in IRS Form 990s
+
+Associated People
+
+ - Identify individuals who have participated in the same nonprofits as a candidate
+
+
+## Public-Record Requests
+Links:
+
+- Offline Resource
+
+
+Description: As you conduct your research, consider additional public-record requests to federal, state or local government agencies that might shed further light on issues involving a candidate. For example, if a candidate previously worked for a government agency, we might submit a public-record request for the candidate's professional calendar during that employment. If we know of a specific company that lobbied the candidate in a previous role, we might request any communications between the candidate and that company. Public-record requests will be most effective if they are narrowly targeted and if responsive records will not include personal information requiring redaction.
+
+Uses:
+Professional History
+
+ - Verify the employment history of a candidate with government experience
+
+Associated People
+
+ - Identify the people with whom a government official has met
+
+
+## Recorders of Deeds
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: The Recorder of Deeds, sometimes referred to as the County Clerk or by some other name, is the official keeper of documents affecting title to real property and also generally records certain other official documents. In most jurisdictions, these records are maintained at the county level, but in some states, such as Connecticut, they are maintained by each town. We will seach for any recorded documents naming a candidate in each of the counties where the candidate is known to have lived or worked. In some jurisdictions, there is no online access to official records, and in these cases, we will order onsite research.
+
+The following common types of records may be filed with the recorder of deeds or equivalent authority:
+
+ - Warranty Deed, documenting the sale of a property
+ - Quitclaim Deed, documenting the release or forefeiture of an ownership claim on a property
+ - Deed of Trust, or Mortgage, registering a lender's security interest in a property to permit foreclosure in case of default
+ - Certificate of Release, or Notice of Satisfaction, documenting the full repayment of a loan and the release of a lender's security interest in a property
+ - Mechanic's Lien, documenting a contractor's right to foreclose a property in case of nonpayment for work conducted on it
+ - Tax Lien, registering an unpaid tax debt 
+ - Judgment, registering a judgment entered by a court
+ - Affidavit, in which an individual makes a factual declaration under oath, generally for the purpose of executing a contract
+ - Marriage License -- in some jurisdictions these will be recorded publicly with the County Clerk
+ - Oaths of Office -- in some jurisdictions county employees publicly file sworn oaths of office
+ - Military Discharges -- in some jurisdictions, veterans can choose to publicly file their military discharges
+
+Uses:
+Background and Family
+
+ - Search for marriage licenses, if available in the relevant jurisdiction
+ - Review any property records naming the candidate for indications of the candidate's marital status, which is frequently included in such records
+ - Search for affidavits signed by the candidate
+
+Professional History
+
+ - Search for oaths of office or military discharges naming the candidate
+
+Personal Finances
+
+ - Search for current and historical properties owned by the candidate
+ - Search for current and historical mortgage debts for the candidate
+ - Search for liens recorded against the candidate
+ - Search for judgments recorded against or in favor of the candidate
+
+Associated People
+
+ - Idenitfy the counterparties in any transactions involving the candidate
+ - Idenitify any creditors of the candidate
+
+
+## SEC Edgar Full Text Search
+Links:
+
+- https://www.sec.gov/edgar/search/#
+
+
+Description: As its name suggests, the SEC Edgar Full Text Search allows users to search the full text of SEC filings dating back to 2001. A candidate name can be searched for any filings naming the candidate. A company name can be searched for any filings submitted by the company or any filings submitted by other companies in which it is named. These may provide information on key client and supplier relationships or significant litigation. 
+
+The following common types of filings are available in the SEC Edgar Full Text database:
+
+ - Form 10-K, an annual report of a publicly traded company, with audited financial statements
+ - Form 10-Q, a quarterly report of a publicly traded company, with aduited financial statements
+ - Form 8-K, a current report disclosing material information on a publicly traded company, such as an agreement to merge with another company
+ - Schedule 14A, a proxy statement disclosing information on a company's corporate governance, including its board of directors, its executive compensation and any shareholder proposals shceduled for votes at the annual shareholder meeting
+ - Forms 3, 4, and 5, disclosing stock ownership and transactions for officers, directors, and significant shareholders of a publicly traded company
+ - Form D, disclosing a private offering of equity or debt, such as a venture capital funding round for a startup
+ - Form 13F, a quarterly snapshot of the publicly traded securities held by a fund manager, required of funds holding at least $100 million in publicly traded securities
+
+Uses:
+Professional History
+
+ - Identify publicly traded companies for which a candidate has served as a director
+ - Find information on the compensation of executives and directors of public companies
+ - Find information on the stock ownership of executives, directors and major shareholders of publicly traded companies
+ - Find professional bios of executives and directors of public companies
+ - Find SEC filings disclosing insider transactions in the stock of publicly traded companies
+ - Review details on the performance of publicly traded companies
+ - Review summaries of significant litigation involving publicly traded companies
+ - Find Form Ds on the financing of privately held companies
+
+ Associated People
+
+ - Identify others with whom a candidate has served as a director or executive for a publicly traded company
+
+
+## SEC Investment Adviser Public Disclosure
+Links:
+
+- https://adviserinfo.sec.gov/
+
+
+Description: Investment advisers are finance professionals who manage funds for investors. They are often called fund managers, and depending on the types of investments they make, they might call their funds hedge funds, private equity funds or venture capital funds. Fund managers with at least $150 million in assets under management must register with the SEC and file a Form ADV, which includes information on the names of the funds that  they manage, the values of these funds, and the officers and beneifical owners of the investment adviser.
+
+Uses:
+Professional History
+
+ - Search for registered investment advisers, such as private equity firms
+ - Search for individuals licensed as investment advisers
+ - Gather information on the amount of assets under management for an investment adviser as well as other details on its business
+
+Criminal Cases and Civil Litigation
+
+ - Search for disclosure events for an investment adviser, such as a previous criminal conviction of one of its officers
+
+Associated People
+
+ - Identify associates of a candidate who has managed an investment adviser
+
+
+## Secretaries of State
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: In most states, the Secretary of State's responsibilities include both chartering companies and administering elections. Some states, such as Arizona, have a distinct agency to charter companies, the Arizona Corporate Commission. Others, such as New York, have a distinct agency to administer elections, the New York State Board of Elections.
+
+As the agency responsible for chartering companies, the Secretary of State generally maintains a database of companies chartered in its jurisdiction. These databases differ in their functionality. For example, the Florida database allows users to search by company name, officer name, and registered address, and it provides free access to all corporate filings, such as a company's articles of incorporation and annual reports. In contrast, the Delaware database only allows users to search by company name, and original copies of filings can only be obtained from a third-party vendor. 
+
+The Secretary of State also generally maintains a database of UCC financing statements. These statements allow a lender to record a security interest in property held by a debtor. As noted above, mortgage lenders generally record their securitiy interests in a debtor's real property at the Recorder of Deeds. So UCC financing statements generally apply to some other type of property, such as accounts receivable, inventory, office equipment, or financial accounts. UCC databases maintained by Secretaries of State often allow a user to search by either the debtor's name or the secured party's name.
+
+As the administrator of elections, the Secretary of State also often provides information on official election results and candidate registrations for both state-level and federal races in its jurisdiction. For state-level candidates, the Secretary of State also often maintains records of any financial disclosures filed by state-level candidates and officeholders as well as campaign finance reports for state-level candidates. The Secretary of State may also keep a database of disclosures filed by lobbyists who lobby the state government. 
+
+If the Secretary of State in the jurisdiction you are researching does not provide access to these records, research the state's government agencies and find the appropriate agency for this research.
+
+Uses:
+Professional History
+
+ - Idenitfy companies in which the candidate has served as a director, officer or registered agent
+ - Identify companies registered at the candidate's known addresses
+ - Obtain copies of corporate filings, such as articles of incorporation and annual reports
+ - Search for UCC financing statements naming the candidate as a debtor or a secured party
+
+Political History
+
+ - Obtain the official results of previous elections
+ - Obtain candidate registration statements
+ - Obtain campaign finance records for state-level elections
+ - Obtain financial disclosures for state-level candidates and elected officials
+ - Search for state-level campaign contributions
+ - Search for state-level lobbying disclosures
+
+
+## Senate Lobbying Disclosure Act Database
+Links:
+
+- https://lda.senate.gov/system/public/
+
+
+Description: Maintained by the Senate, this database includes lobbying disclosure reports for all federal lobbyists. It is searchable by a variety of fields including lobbyist name, lobbyist client, and lobbying firm name.
+
+To search for any former staffers of an executive branch official or member of Congress who are now lobbyists, choose the "Registrations and Quarterly Activity Reports" search. Click "More Search Options" under the "Lobbyist Name" field and then enter the official's name in the "Covered Position Description" and search. This search will return any lobbying reports disclosing lobbyists who previously worked for the official. However, be aware that the Government Accountability Office has repeatedly found that many lobbyists do not properly comply with the requirement to disclose previous positions in government: https://www.gao.gov/assets/gao-23-105989.pdf   
+
+To search for any lobbyists who have contributed to a candidate's campaign or funded an event honoring the candidate, choose the "Contributions Search." Expand the search menu under Contribution Entities, and then enter the candidate's name in the "Payee" field. After analyzing these results, go back to the same page, enter the candidate's name in the "Honoree" field and search.
+
+Be aware that the fees reported in lobbying disclosures are rounded to the nearest $10,000, and lobbying firms earning less than $3,000 from a client in a quarter do not need to file a disclosure. If the same firm lobbies on behalf of a client and also provides non-lobbying consulting, legal, or accounting services, fees paid for these other services need not be disclosed.
+
+Guidance on understanding the Lobbying Disclosure Act's reporting requirements can be found here: https://lobbyingdisclosure.house.gov/ldaguidance.pdf  
+
+Uses:
+Professional History and Associated People
+
+ - Identify whether a candidate has previously registered as a lobbyist
+ - Identify a lobbyist's clients, the approximate amount of lobbying fees they paid, and the government bodies and policy issues involved in any lobbying activity
+
+Political History and Asociated People
+
+ - Search for any previous staffers of a candidate who have become lobbyists
+ - Identify the lobbyists who have contributed to a candidate's campaign committee or paid for any events honoring the candidate
+ - Identify the clients of any lobbyists who have contributed to a candidate's campaign committee
+
+
+## SignalHire
+Links:
+
+- https://www.signalhire.com/login?utm_block=1
+
+
+Description: SignalHire draws from LinkedIn profiles and other data to provide a database of both professional histories and contact information. The contact information in SignalHire complements the contact information in TLO, and the database appears to include information from cached LinkedIn profiles as well.
+
+Uses:
+Background and Family
+
+ - Identify email addresses and phone numbers used by the candidate
+
+Professional History
+
+ - Identify material deleted from past versions of LinkedIn profiles
+
+
+## State Bar Associations
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: State bar associations generally provide a publicly available member directory that allows members of the public to verify an attorney's license. These databases generally also include information on any disciplinary actions associated with a license and might also include a business address and educational history for each licensed attorney. Like FINRA, state bar associations are private organizations even though they serve a public function, and as private organizations, they are not subject to state-level open records laws. 
+
+Uses:
+Professional History
+
+ - Verify a candidate's license to practice law
+ - Search for any disciplinary history associated with an attorney license
+ - Search for any employment or address history associated with an attorney license
+ - Verify an attorney's educational history
+
+
+## State DMVs
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: States differ in the availability of vehicle registration information and driving records to the third parties. In many cases, we will not be able to search directly at the state DMV for vehicles registered to a candidate. It is nevertheless good practice to familiarize yourself with the availability of registration and driving records in each state. Some TLO reports include current and historical vehicle registration information, which we can use for leads although as a secondary source, TLO registration data is not authoritative.
+
+Uses:
+Personal Finances
+
+ - Identify vehicles registered to a candidate currently and historically
+
+
+## State Voter Registration Websites
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Many states offer a public website that allows users to verify voter registrations. States differ in the amount of information that needs to be entered in order to verifya voter registration. For example, some may require only a name and date of birth, whereas others may require a Social Security number. 
+
+States also differ in the accessibility of voter registration information for third parties. If a state voter registrations website clearly indicates that it is only intended for a voter seeking to verify his or her own voter registration information, do not use it to access another person's voter registration.
+
+Uses:
+Background and Family
+
+ - Identify the address that a candidate has used to register to vote
+
+Political History
+
+ - Identify a candidate's voter registration
+
+
+## State and Local Procurement Databases
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: States, counties and municipal governments generally provide publicly available information on government contract awards, although these databases may be less user-friendly and less comprehensive than federal databases.
+
+Uses:
+Professional History
+
+ - Search for government contracts awarded to a candidate or a candidate's companies
+
+ Associated People
+
+ - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
+
+
+## State or County Case Indexes
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Using the candidate's known address history from TLO and other sources as well as the candidate's professional and educational history, we should have a list of counties in which the candidate has lived, worked, or studied. These should be the same counties in which we searched for any documents naming the candidate at the Recorder of Deeds, described above. We will seach for any civil or criminal cases naming the candidate as a party in each of the counties where the candidate is known to have lived or worked. Consider including certain neighboring counties in your searches if they form part of a larger metropolitan area. For example, a candidate who lived and worked in Cambridge, Massachusetts, might be party to civil cases in either Middlesex County, which includes Cambridge, or Suffolk County, which includes neighboring Boston. In some jurisdictions, there is no online access to state-level court records, and in these cases, we will order onsite research.
+
+The structure of the courts varies from state to state, and the nature and availability of court records also vary from state to state and often from county to county. Briefly familiarize yourself with the structure of the courts in any jurisdiction where the candidate has lived, worked, or studied. We will be focused on trial courts, or first-instance courts, as opposed to appeals courts. Some states have a single, unified level of trial courts which hear all cases. For example, in California the Superior Court is the first-instance court for all cases. In other states, there is a divided trial court structure, with courts of "general jurisdiction" hearing felony criminal cases and high-value civil cases and lower courts that hear misdemeanor criminal cases and small claims civil cases. For example, in New York the trial court of general jurisdiction is named the Supreme Court, and there are a number of lower-level trial courts that hear small claims cases, misdemeanor cases, and landlord-tenant cases.
+
+Conduct research to find all of the relevant courts and their case indexes, and search for any civil or criminal cases naming the canidate. For any cases that you find, write a summary of the case using any records that are available, and save the supporting documents in the project folder. You may need to research unfamiliar legal or financial terminology. Take the time necessary to understand the case thoroughly and present a concise summary of it.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify any state-level civil or criminal cases in which a candidate has been named a party
+ 
+Associated People
+
+ - Identify any associates named in court records
+ - Identify any litigation adversaries 
+
+
+## Statewide Criminal History Checks
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Many states, but not all, provide a publicly accessible, statewide criminal history database. Other states only individuals to access their own criminal histories or require third parties to have the subject's signed consent. Determine which of the jurisdictions where the candidate has lived offer a statewide criminal history check and run these searches wherever possible.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify any criminal cases or convictions for a candidate
+
+
+## TLO & LexisNexis
+Links:
+
+- https://tloxp.tlo.com/login
+
+
+Description: TLO is a proprietary database that aggregates information from “credit headers,” or the portion of a credit report without financial information, as well as other public and private data. A TLO comprehensive report provides identifying details, address history, associated phone numbers and email addreses and possible employers, among other information. Remember that as a proprietary database, TLO is a secondary source, and anything significant in a TLO report must be verified independently. For this reason, we generally use TLO data to identify leads for further investigation but never as an authoritative source itself. Because of the wide range of data that TLO provides, obtaining and reviewing a TLO report on the candidate is almost always the first step to be taken in any new project.
+
+You will not have direct access to TLO but will receive TLO reports from Sunlight Search staff. Keep TLO in mind and request additional research or reports from Sunlight Staff if you develop leads that require it.
+
+Uses:
+Background and Family
+
+ - Identify the full name and date of birth of the candidate as well as any aliases
+ - Compile a list of addresses potentially associated with the candidate, including the candidate's likely current address
+ - Using the candidate's address history, identify the counties in which the candidate has lived
+ - Identify phone numbers and email addresses associated with the candidate
+ - Gather leads as to the candidate's family (Who lives at the candidate's current address? If the candidate has a historical address in his or her hometown, who owns the property at that address, and who else has been associated with it?)
+
+Professional History
+
+ - Gather leads to professional licenses the candidate may have now or may have had previously 
+ - Gather leads on the candidate's employment history
+ - Gather leads on companies associated with the candidate
+
+Political History
+
+ - Gather leads on the candidate's voter registration history
+
+Personal Finances
+
+ - Gather leads to properties that the candidate may curently own or may have previously owned
+ - Gather leads on vehicles and watercraft the candidate may currently own or may have previously owned
+
+Civil Litigation and Criminal Cases
+
+ - Gather leads on criminal cases and judgments filed against the candidate
+ - Gather leads on any bankruptcy filings by the candidate
+ - Gather leads on the candidate's driver's license and past traffic infractions
+
+Potential Interviewees
+
+ - Once potential interviewees have been identified, find their contact information
+
+
+## Tax Assessors
+Links:
+
+- Will vary depending on jurisdiction.
+
+
+Description: Property owners in all 50 states and the District of Columbia owe taxes on real property. Generally, it is the county that collects these taxes, but in some states it is the town. The County Tax Assessor, sometimes referred to as the County Treasurer or by some other name, is responsible for valuing real property in the county and assessing property owners the appropriate amount of tax. Thus, the County Tax Asessor keeps up-to-date information on the current ownership of properties, their boundaries and features, and the taxes owed by property owners. 
+
+In most counties, the tax assessor provides an online database that can be searched by property address, parcel ID, or owner name. In some states, such as California, assessors do not provide the names of property owners because of privacy laws. In many states, assessors provide a satellite map of properties which identifes their owners and boundaries. 
+
+Many states offer homestead exemptions, which reduce the property taxes owed on properties that the owner uses as a primary residence. Consider whether any homestead exemptions claimed by a candidate are consistent with the candidate's voter registration or claimed residence.
+
+In addition to taxing real property, many states also tax "personal property," or any property that is moveable, such as cars, watercraft, product inventory, and office equipment. Determine whether the candidate lives in such a state and whether personal property tax records are publicly available. 
+
+Uses:
+Professional History
+
+ - If available, search for any business personal property owned by a business
+
+Personal Finances
+
+ - Search for any real property currently owned by a candidate
+ - If available, search for any personal property owned by the candidate
+ - Identify the current owner of a specific property
+ - Identify the boundaries of a property and other characteristics, such as the year built, numbers of bedrooms and bathrooms, and square footage
+ - Determine whether any homestead exemption has been claimed on a property
+ - Determine whether a homeowner owes any unpaid property taxes
+ - Identify whether a homeowner has disputed the assessor's valuation and tax assessment on a property
+
+Associated People
+
+ - If an assessor map is available, identify neighboring properties and their owners
+
+
+## Twitter
+Links:
+
+- https://twitter.com/home
+
+
+Description: Twitter's advanced search allows researchers to search for specific terms in a candidates tweets. Searches can also be narrowed by timeframe. You can also search for tweets from a specific user mentioning another user. Explore these features to look for patterns in a candidate's Twitter activity or identify any embarassing content. Be awar ethatsome tweets may have geolocation tags, which canhelp track a candidate's movements over time.
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Review a candidate's Twitter activity 
+
+Associated People
+
+ - Identify Twitter users with whom a candidate has interacted
+
+
+## US Coast Guard Port State Information Exchange
+Links:
+
+- https://cgmix.uscg.mil/PSIX/PSIXSearch.aspx
+
+
+Description: This database is not searchable by owner name, so it is only helpful if you know the name or other identifying details on a specific vessel. Many vessels are also not federally titled but instead titled with a state authority, often the DMV.
+
+Uses:
+Personal Finances
+
+ - Look up the ownership of a vessel if you know its name, hull number, call sign or primary vessel ID
+
+
+## US Court of Federal Claims
+Links:
+
+- https://www.govinfo.gov/app/search/ and https://ecf.cofc.uscourts.gov/cgi-bin/CFC_LegacyOpinions.pl
+
+
+Description: The US Court of Federal Claims is a venue for citizens filing claims against the federal government. There are two search resources for opinions and orders from this court. First, run a keyword search of all opinions and orders from 2014 to present at the following website: https://www.govinfo.gov/app/search/. Second, run a keyword search of opinions and orders from before 2014 at this website: https://ecf.cofc.uscourts.gov/cgi-bin/CFC_LegacyOpinions.pl  
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify any cases filed by a candidate in US Court of Federal Claims
+
+
+## US Tax Court
+Links:
+
+- https://dawson.ustaxcourt.gov/
+
+
+Description: The US Tax Court is where taxpayers can petition for adjudication of disputes with the IRS. Search for any petitions that a candidate has filed in this court and review any available records for information on any tax disputes involving the candidate.
+
+Uses:
+Civil Litigation and Criminal Cases
+
+ - Identify any cases filed by a candidate in US Tax Court
+
+
+## USASpending.Gov
+Links:
+
+- https://www.usaspending.gov/
+
+
+Description: This database is maintained by the Department of the Treasury, Bureau of Fiscal Service, and it has data on federal contract awards dating back to at least 2008. Its search feature is intuitive and self-explanatory.
+
+Uses:
+Professional History
+
+ - Search for government contracts awarded to the candidate or his companies
+ - Search for Small Business Administration loans disbursed to the candidate or his companies, such as Paycheck Protection Program loans and Economic Injury Disaster Loans
+
+ Associated People
+
+ - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
+ - Search for Small Business Administration loans disbursed to the candidate's campaign donors, business associates and relatives
+
+
+## USPTO Patent Search
+Links:
+
+- https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html
+
+
+Description: This database allows searches by inventor name, applicant name and assignee name, among other options.
+
+Uses:
+Professional History
+
+ - Search for patents invented by a candidate or assigned to a candidate
+ - Search for patents registered to a candidate's company for information on its line of business
+
+Associated People
+
+ - Identify business associates whose names appear together in patent applications
+
+
+## USPTO Trademark Search
+Links:
+
+- https://www.uspto.gov/trademarks/search
+
+
+Description: The USPTO trademark database allows searches by trademark name, owner name and owner address. Be sure to use each option to search for any trademarks registered to a candidate, a candidate's known businesses, or using a candidate's known addresses.
+
+Uses:
+Professional History
+
+ - Search for trademarks registered to a candidate or a candidate's companies
+ - Search for trademarks registered to a candidate's known addresses
+
+
+## Venmo
+Links:
+
+- https://venmo.com/
+
+
+Description: Review any publicly available payment history on a candidate's Venmo account. If you are unable to find a candidate's Venmo account using the candidate's name, try searching with knonwn phone numbers and email addresses.
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Review a candidate's Venmo activity 
+
+Associated People
+
+ - Identify Venmo users with whom a candidate has exchanged payments
+
+
+## Vessel Tracking Websites
+Links:
+
+- https://www.marinetraffic.com/ 
+
+
+Description: Vessel tracking websites function almost exactly the same as aircraft tracking websites. Current locations and recent ports of call for vessels are publicly available for free, while historical movements generally require a purchase. Use these resources if the candidate has been tied to a yacht.
+
+Uses:
+Personal Finances
+
+ - Track the current and historical movements of vessels
+
+
+## ViewDNS.Info
+Links:
+
+- https://viewdns.info/
+
+
+Description: Like Whoxy, ViewDNS.Info provides a variety of searches related to domain registrations and other aspects of website infrastructure. Its reverse WhoIS lookup by email address can provide records that are not in Whoxy, so both searches should be conducted as complements to one another. 
+
+Uses:
+Professional History
+
+ - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
+
+
+## Wayback Machine
+Links:
+
+- https://archive.org/
+
+
+Description: The Wayback Machine archives and preserves websites. It has two key features. First, a researcher can enter a specific URL and view the website at the URL as it appeared on certain past dates when it was captured and archived by the Wayback Machine. Second, a user can conduct a keyword search and identify archived Internet content associated with the keyword. For example, if a candidate was an exeuctive of a defunct company that no longer has a website, a researcher can enter the defunct company's name into the Wayback Machine keyword search to try to find archived versions of the company's website.
+
+Uses:
+Professional History
+
+ - Search for archived versions of company websites
+
+Political History
+
+ - Search for archived versions of campaign websites
+
+Associated People
+
+ - Use archived websites to identify past business associates of a candidate
+
+
+## White House Visitor Logs
+Links:
+
+- https://www.whitehouse.gov/disclosures/visitor-logs/
+
+
+Description: Visitors who enter the White House together appear to receive the same identification number, which can be found in the logs. These can be downloaded to Excel for analysis.
+
+Uses:
+Political History
+
+ - Identify whether a candidate or a candidate's associates have visited the White House
+
+Associated People
+
+ - Identify individuals who visited the White House on the same date
+
+
+## Whoxy
+Links:
+
+- https://www.whoxy.com/
+
+
+Description: Whoxy allows a variety of searches related to domain registration records. Its most useful feature is its free historical domain registration data. For a given domain, you can gather information on its past registration details. Often, domains might be currently registered to a service such as GoDaddy, but in the past, they may have been registered to a speciifc email address identifying the website's owner. Use any known email addresses for a candidate to search for any current or historical domain registrations for the candidate.
+
+Uses:
+Professional History
+
+ - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
+
+
+## YouTube
+Links:
+
+- https://www.youtube.com/
+
+
+Description: Use YouTube to find videos of press conferences and campaign rallies held by a candidate. Use the transcript, available at the bottom of most videos, to avoid needing to view videos intheir entirety. Use the visuals to identify anything of interest about the setting of an event. Is the event on private property? Can we determine who owns it and whether use of the property has been properly disclosed as an in-kind contribution? Does the owner have business withthe government and has he or she contributed to the candidate's campaign? Are there aircraft visible in the picture?
+
+Uses:
+Social Media and Other Internet Sources
+
+ - Review a candidate's YouTube activity 
+ - Review videos of press conferences and campaign events
+
+
+## Zillow
+Links:
+
+- https://www.zillow.com/
+
+
+Description: Zillow is a free website that provides photos and data on real property throughout the US. Its property data is generaly sourced from county-level tax assessors, described above. As primary sources, tax assessor records are more reliable and should be used to verify anything reported in Zillow. However, Zillow complements tax assessor data by also providing data on a property's listing history. For example, Zillow may report that a property owned by a candidate was recently listed for rent, suggesting that the candidate may no longer be living there. 
+
+Uses:
+Professional History
+
+ - Identify the listing history of a specific real estate agent
+
+Personal Finances
+
+ - Find an estimate of the current market value of a property
+ - Search for any previous listings of a property, for rent or for sale
+ - Identify the real estate agents who listed a property or brokered a specific transaction
+
+
