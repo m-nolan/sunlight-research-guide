@@ -26,7 +26,7 @@ def write_search_table(df,filename):
             c_df = df[[category in c for c in categories_list]].sort_values('Resource')
             pf(f'### {category}\n')
             for o_idx, row in c_df.iterrows():
-                pf(f'- {row.Resource} (*{row.Category}*)')
+                pf(f"- [{row.Resource}](#{row.Resource.lower().replace(' ','-')}) (*{row.Category}*)")
             pf('\n')
 
 def write_resource_list(df,filename):
