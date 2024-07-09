@@ -1,4 +1,174 @@
-## Aircraft Photo Websites
+# Research Guide
+Sunlight Search
+
+2024-07-09
+
+
+## CONTENTS BY USE
+###  Associated People
+
+- SEC Edgar Full Text Search (*Federal Records*)
+
+
+### Associated People
+
+- DOJ FARA Database (*Federal Records*)
+- Delaware Court of Chancery (*Proprietary Database*)
+- Facebook (*Media and Other Open Sources*)
+- Federal Election Commission (*Federal Records*)
+- Federal Procurement Data System (*Federal Records*)
+- GSA System for Award Management (*Federal Records*)
+- IRS Tax-Exempt Organization Search (*Federal Records*)
+- Instagram (*Media and Other Open Sources*)
+- LinkedIn (*Media and Other Open Sources*)
+- Medical Licensing Boards (*State and Local Records*)
+- Open Corporates (*Media and Other Open Sources*)
+- Other Professional and Business Licensing Bodies (*State and Local Records*)
+- PACER (*Federal Records*)
+- Personal Financial Disclosures (*Federal Records*)
+- ProPublica Nonprofit Explorer (*Media and Other Open Sources*)
+- Public-Record Requests (*Federal Records*)
+- Recorders of Deeds (*State and Local Records*)
+- SEC Investment Adviser Public Disclosure (*Federal Records*)
+- State and Local Procurement Databases (*State and Local Records*)
+- State or County Case Indexes (*State and Local Records*)
+- Tax Assessors (*State and Local Records*)
+- Twitter/X (*Media and Other Open Sources*)
+- USASpending.Gov (*Federal Records*)
+- USPTO Patent Search (*Federal Records*)
+- Venmo (*Media and Other Open Sources*)
+- Wayback Machine (*Media and Other Open Sources*)
+- White House Visitor Logs (*Federal Records*)
+
+
+### Background and Family
+
+- Lexis Nexis (*Proprietary Database*)
+- LinkedIn (*Media and Other Open Sources*)
+- Local Newspapers (*Media and Other Open Sources*)
+- Marriage Indexes (*State and Local Records*)
+- Recorders of Deeds (*State and Local Records*)
+- SignalHire (*Proprietary Database*)
+- State Voter Registration Websites (*State and Local Records*)
+- TLO & LexisNexis (*Proprietary Database*)
+
+
+### Civil Litigation and Criminal Cases
+
+- County and State Inmate Locator Databases (*State and Local Records*)
+- DOJ National Sex Offender Website (*Federal Records*)
+- Delaware Court of Chancery (*Proprietary Database*)
+- Federal Bureau of Prisons (*Federal Records*)
+- Law Enforcement Public-Record Requests (*State and Local Records*)
+- Mugshots.com (*Media and Other Open Sources*)
+- PACER (*Federal Records*)
+- SEC Investment Adviser Public Disclosure (*Federal Records*)
+- State or County Case Indexes (*State and Local Records*)
+- Statewide Criminal History Checks (*State and Local Records*)
+- TLO & LexisNexis (*Proprietary Database*)
+- US Court of Federal Claims (*Federal Records*)
+- US Tax Court (*Federal Records*)
+
+
+### Educational History
+
+- Calls to University Registrars (*Telephone*)
+
+
+### Nonprofits
+
+- IRS Tax-Exempt Organization Search (*Federal Records*)
+- ProPublica Nonprofit Explorer (*Media and Other Open Sources*)
+
+
+### Personal Finances
+
+- Aircraft Photo Websites (*Media and Other Open Sources*)
+- Aircraft Tracking Websites (*Media and Other Open Sources*)
+- County and Municipal Building Permits (*State and Local Records*)
+- Federal Aviation Administration (*Federal Records*)
+- Google Earth Pro (*Media and Other Open Sources*)
+- Google Maps Street View (*Media and Other Open Sources*)
+- Personal Financial Disclosures (*Federal Records*)
+- Recorders of Deeds (*State and Local Records*)
+- State DMVs (*State and Local Records*)
+- TLO & LexisNexis (*Proprietary Database*)
+- Tax Assessors (*State and Local Records*)
+- US Coast Guard Port State Information Exchange (*Federal Records*)
+- Vessel Tracking Websites (*Media and Other Open Sources*)
+- Zillow (*Media and Other Open Sources*)
+
+
+### Political History
+
+- County-Level Elections Authority (*State and Local Records*)
+- Federal Election Commission (*Federal Records*)
+- Follow the Money (*Media and Other Open Sources*)
+- Lexis Nexis (*Proprietary Database*)
+- Library of Congress (*Federal Records*)
+- Local Newspapers (*Media and Other Open Sources*)
+- Secretaries of State (*State and Local Records*)
+- Senate Lobbying Disclosure Act Database (*Federal Records*)
+- State Voter Registration Websites (*State and Local Records*)
+- TLO & LexisNexis (*Proprietary Database*)
+- Wayback Machine (*Media and Other Open Sources*)
+- White House Visitor Logs (*Federal Records*)
+
+
+### Professional History
+
+- Calls to Employers (*Telephone*)
+- Department of Labor Form 5500 Database (*Federal Records*)
+- FINRA Brokercheck (*Media and Other Open Sources*)
+- Federal Procurement Data System (*Federal Records*)
+- GSA System for Award Management (*Federal Records*)
+- Glassdoor (*Media and Other Open Sources*)
+- Lexis Nexis (*Proprietary Database*)
+- LinkedIn (*Media and Other Open Sources*)
+- Local Newspapers (*Media and Other Open Sources*)
+- Medical Licensing Boards (*State and Local Records*)
+- Military Records (*Federal Records*)
+- Open Corporates (*Media and Other Open Sources*)
+- Other Professional and Business Licensing Bodies (*State and Local Records*)
+- Public-Record Requests (*Federal Records*)
+- Recorders of Deeds (*State and Local Records*)
+- SEC Edgar Full Text Search (*Federal Records*)
+- SEC Investment Adviser Public Disclosure (*Federal Records*)
+- Secretaries of State (*State and Local Records*)
+- Senate Lobbying Disclosure Act Database (*Federal Records*)
+- SignalHire (*Proprietary Database*)
+- State Bar Associations (*Media and Other Open Sources*)
+- State and Local Procurement Databases (*State and Local Records*)
+- TLO & LexisNexis (*Proprietary Database*)
+- Tax Assessors (*State and Local Records*)
+- USASpending.Gov (*Federal Records*)
+- USPTO Patent Search (*Federal Records*)
+- USPTO Trademark Search (*Federal Records*)
+- ViewDNS.Info (*Media and Other Open Sources*)
+- Wayback Machine (*Media and Other Open Sources*)
+- Whoxy (*Media and Other Open Sources*)
+- Zillow (*Media and Other Open Sources*)
+
+
+### Social Media and Other Internet Sources
+
+- Archive.Is (*Media and Other Open Sources*)
+- Facebook (*Media and Other Open Sources*)
+- Instagram (*Media and Other Open Sources*)
+- Intel Techniques Online Tools (*Media and Other Open Sources*)
+- LinkedIn (*Media and Other Open Sources*)
+- Pimeyes.com (*Media and Other Open Sources*)
+- Politwoops (*Media and Other Open Sources*)
+- Twitter/X (*Media and Other Open Sources*)
+- Venmo (*Media and Other Open Sources*)
+- YouTube (*Media and Other Open Sources*)
+
+
+## RESOURCES
+### Aircraft Photo Websites
+
+*Media and Other Open Sources*
+
 Links:
 
 - JetPhotos
@@ -13,7 +183,10 @@ Personal Finances
  - Identify aircraft owned by a candidate or used by a candidate's campaign
 
 
-## Aircraft Tracking Websites
+### Aircraft Tracking Websites
+
+*Media and Other Open Sources*
+
 Links:
 
 - ADS-B Exchange
@@ -29,7 +202,10 @@ Personal Finances
  - Track the current and historical movements of aircraft
 
 
-## Archive.Is
+### Archive.Is
+
+*Media and Other Open Sources*
+
 Description: Although the Wayback Machine is an excellent resource for archived websites, Archive.IS serves a different function. It includes archives of social media content from different historical dates. 
 
 Uses:
@@ -38,7 +214,10 @@ Social Media and Other Internet Sources
  - Identified archived social media such as deleted tweets
 
 
-## Calls to Employers
+### Calls to Employers
+
+*Telephone*
+
 Links:
 
 - Offline Resource
@@ -54,7 +233,10 @@ Professional History
  - Verify a candidate's claimed professional history
 
 
-## Calls to University Registrars
+### Calls to University Registrars
+
+*Telephone*
+
 Links:
 
 - Offline Resource
@@ -70,7 +252,10 @@ Educational History
  - Verify a candidate's claimed education history
 
 
-## County and Municipal Building Permits
+### County and Municipal Building Permits
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -84,7 +269,10 @@ Personal Finances
  - Search for any building permits for a property
 
 
-## County and State Inmate Locator Databases
+### County and State Inmate Locator Databases
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -98,7 +286,10 @@ Civil Litigation and Criminal Cases
  - Identify arrest and inmate records for a candidate
 
 
-## County-Level Elections Authority
+### County-Level Elections Authority
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -113,7 +304,10 @@ Political History
  - Verify a candidate's voter registration history
 
 
-## DOJ FARA Database
+### DOJ FARA Database
+
+*Federal Records*
+
 Links:
 
 - https://efile.fara.gov/ords/fara/f?p=1235:10
@@ -122,12 +316,15 @@ Links:
 Description: Agents of foreign clients who seek to influence US policy must register as such with the Department of Justice. This is true for both foreign government clients and private sector clients. 
 
 Uses:
-Professional History and Associated People
+Associated People
 
  - Identify any foreign clients of lobbyists or public relations firms
 
 
-## DOJ National Sex Offender Website
+### DOJ National Sex Offender Website
+
+*Federal Records*
+
 Links:
 
 - https://www.nsopw.gov/
@@ -141,7 +338,10 @@ Civil Litigation and Criminal Cases
  - Identify registered sex ofender records naming a candidate
 
 
-## Delaware Court of Chancery
+### Delaware Court of Chancery
+
+*Proprietary Database*
+
 Links:
 
 - https://secure.fileandservexpress.com/Login/Login.aspx
@@ -162,7 +362,10 @@ Associated People
  - Identify any litigation adversaries 
 
 
-## Department of Labor Form 5500 Database
+### Department of Labor Form 5500 Database
+
+*Federal Records*
+
 Links:
 
 - https://www.efast.dol.gov/5500search/
@@ -176,7 +379,10 @@ Professional History
  - Gather information on a company's employee headcount over time
 
 
-## FINRA Brokercheck
+### FINRA Brokercheck
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://brokercheck.finra.org/
@@ -192,7 +398,10 @@ Professional History
  - Find information on the emloyment history of a licensed securities broker
 
 
-## Facebook
+### Facebook
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.facebook.com/
@@ -210,7 +419,10 @@ Associated People
  - Identify Facebook users with whom a candidate has interacted
 
 
-## Federal Aviation Administration
+### Federal Aviation Administration
+
+*Federal Records*
+
 Links:
 
 - https://registry.faa.gov/aircraftinquiry/
@@ -224,7 +436,10 @@ Personal Finances
  - Identify aircraft registered to a candidate or the candidate's known businesses
 
 
-## Federal Bureau of Prisons
+### Federal Bureau of Prisons
+
+*Federal Records*
+
 Links:
 
 - https://www.bop.gov/inmateloc/
@@ -238,7 +453,10 @@ Civil Litigation and Criminal Cases
  - Identify federal inmate records for a candidate
 
 
-## Federal Election Commission
+### Federal Election Commission
+
+*Federal Records*
+
 Links:
 
 - https://www.fec.gov/
@@ -276,7 +494,10 @@ Associated People
  - Identify individuals who gave to the same candidate onthe same date
 
 
-## Federal Procurement Data System
+### Federal Procurement Data System
+
+*Federal Records*
+
 Links:
 
 - https://www.fpds.gov/fpdsng_cms/index.php/en/
@@ -290,13 +511,16 @@ Professional History
  - Search for government contracts awarded to the candidate or his companies
  - Search for Small Business Administration loans disbursed to the candidate or his companies, such as Paycheck Protection Program loans and Economic Injury Disaster Loans
 
- Associated People
+Associated People
 
  - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
  - Search for Small Business Administration loans disbursed to the candidate's campaign donors, business associates and relatives
 
 
-## Follow the Money
+### Follow the Money
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.followthemoney.org/
@@ -310,7 +534,10 @@ Political History
  - Search for campaign contributions from specific donors at the state and local level 
 
 
-## GSA System for Award Management
+### GSA System for Award Management
+
+*Federal Records*
+
 Links:
 
 - https://sam.gov/content/home
@@ -327,12 +554,15 @@ Professional History
  - Search for companies and individuals registered as federal contractors
  - Search for any disciplinary history or debarments affecting government contractors
 
- Associated People
+Associated People
 
  - Search for any disciplinary history or debarments affecting government contractors associated with campaign donors, business associates or relatives
 
 
-## Glassdoor
+### Glassdoor
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.glassdoor.com/index.htm
@@ -346,7 +576,10 @@ Professional History
  - Read anonymous employee reviews of a candidate's companies
 
 
-## Google
+### Google
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.google.com/
@@ -358,7 +591,10 @@ Uses:
 Google will be so ubiquitous in your research that it defies categorization. It will be necessary to locate many of the resources described elsewhere in this guide. For example, when searching for the Recorder of Deeds in a new jurisdiction, you will need to use Google to find it. 
 
 
-## Google Earth Pro
+### Google Earth Pro
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.google.com/earth/about/versions/#earth-pro
@@ -372,7 +608,10 @@ Personal Finances
  - View historical satellite images to analyze changes to a property over time
 
 
-## Google Maps Street View
+### Google Maps Street View
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.google.com/maps
@@ -386,7 +625,10 @@ Personal Finances
  - View historical street view images to analyze changes to a property over time
 
 
-## IRS Tax-Exempt Organization Search
+### IRS Tax-Exempt Organization Search
+
+*Federal Records*
+
 Links:
 
 - https://www.irs.gov/charities-non-profits/tax-exempt-organization-search
@@ -406,7 +648,10 @@ Associated People
  - Identify individuals who have participated in the same nonprofits as a candidate
 
 
-## Instagram
+### Instagram
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.instagram.com/
@@ -424,7 +669,10 @@ Associated People
  - Identify Instagram users with whom a candidate has interacted
 
 
-## Intel Techniques Online Tools
+### Intel Techniques Online Tools
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://inteltechniques.com/tools/index.html
@@ -439,7 +687,10 @@ Social Media and Other Internet Sources
  - Use other open-source tools as needed
 
 
-## Law Enforcement Public-Record Requests
+### Law Enforcement Public-Record Requests
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -456,7 +707,10 @@ Civil Litigation and Criminal Cases
  - Find information on calls for service to a candidate's residence
 
 
-## Lexis Nexis
+### Lexis Nexis
+
+*Proprietary Database*
+
 Links:
 
 - lexisnexis.com
@@ -478,7 +732,10 @@ Political History
  - Identify local issues related to a candidate and voters in his or her district or state
 
 
-## Library of Congress
+### Library of Congress
+
+*Federal Records*
+
 Links:
 
 - https://www.congress.gov/
@@ -493,7 +750,10 @@ Political History
  - Research the voting record of a member of Congress
 
 
-## LinkedIn
+### LinkedIn
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.linkedin.com
@@ -514,7 +774,7 @@ Professional History
 
  - Identify the claimed professional history of the candidate
 
-Social Media
+Social Media and Other Internet Sources
 
  - Review any posts, comments, images, and reactions to examine the candidate's LinkedIn activity
  - Reviewed any skills that the candidate claims and who has endorsed them
@@ -527,7 +787,10 @@ Associated People
  - Identify people with whom the candidate has interacted through posts, comments, reactions, recommendations, and endorsements
 
 
-## Local Newspapers
+### Local Newspapers
+
+*Media and Other Open Sources*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -549,7 +812,10 @@ Political History
  - Identify local issues related to a candidate and voters in his or her district or state
 
 
-## Marriage Indexes
+### Marriage Indexes
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -563,7 +829,10 @@ Background and Family
  - Identify any current or previous marriages for the candidate
 
 
-## Medical Licensing Boards
+### Medical Licensing Boards
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -586,7 +855,10 @@ Associated People
  - Identify a licensee's associates
 
 
-## Military Records
+### Military Records
+
+*Federal Records*
+
 Links:
 
 - https://www.archives.gov/personnel-records-center/ompf-access-public
@@ -600,7 +872,10 @@ Professional History
  - Verify a candidate's claimed military service
 
 
-## Mugshots.com
+### Mugshots.com
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://mugshots.com/
@@ -614,7 +889,10 @@ Civil Litigation and Criminal Cases
  - Search for mugshots and bookings of a candidate
 
 
-## Open Corporates
+### Open Corporates
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://opencorporates.com/
@@ -633,7 +911,10 @@ Associated People
  - Identify people who have been associated with the same companies as a candidate
 
 
-## Other Professional and Business Licensing Bodies
+### Other Professional and Business Licensing Bodies
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -655,7 +936,10 @@ Associated People
  - Identify a candidate's business associates
 
 
-## PACER
+### PACER
+
+*Federal Records*
+
 Links:
 
 - https://pacer.uscourts.gov/
@@ -678,13 +962,18 @@ Associated People
  - Identify any litigation adversaries 
 
 
-## Personal Financial Disclosures
+### Personal Financial Disclosures
+
+*Federal Records*
+
 Links:
 
 - Personal Financial Disclosure - House
 - Personal Financial Disclosure - Senate
 - Office of Government Ethics
-- State-level PFD websites and requirements vary by state
+- The White House
+- House
+- Senate
 
 
 Description: Most candidates for elected office are required to submit a personal financial disclosure. The Senate and House each maintain their own databases of financial disclosures, which include both annual financial disclosures and periodic transaction reports. Annual disclosures present a somewhat comprehensive but imprecise summary of a candidate's assets and liabilities, while periodic transaction reports disclose specific transactions in publicly traded securities, such as sales of publicly traded shares. 
@@ -708,10 +997,13 @@ Associated People
  - Identify business interests in which a candidate might have partners or associates
 
 
-## Pimeyes.com
+### Pimeyes.com
+
+*Media and Other Open Sources*
+
 Links:
 
-- Pimeyes.com 
+- Pimeyes.com
 
 
 Description: This appears to be the best available reverse image search option because unlike other searches, it uses facial recognition technology. This is almost certainly how pornographic videos of Virginia House of Delegates candidate Susanna Gibson were discovered. Save several photos of a candidate's face and then upload them to Pimeyes.com. Search results are impressive and can include photos from the candidate's youth and photos of the candidate in a crowd.
@@ -722,7 +1014,10 @@ Social Media and Other Internet Sources
  - Identify online content related to a candidate, even if the candidate's name is not associated with the content
 
 
-## Politwoops
+### Politwoops
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://projects.propublica.org/politwoops/
@@ -736,7 +1031,10 @@ Social Media and Other Internet Sources
  - Identified tweets that politicians have deleted
 
 
-## ProPublica Nonprofit Explorer
+### ProPublica Nonprofit Explorer
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://projects.propublica.org/nonprofits/
@@ -757,7 +1055,10 @@ Associated People
  - Identify individuals who have participated in the same nonprofits as a candidate
 
 
-## Public-Record Requests
+### Public-Record Requests
+
+*Federal Records*
+
 Links:
 
 - Offline Resource
@@ -775,7 +1076,10 @@ Associated People
  - Identify the people with whom a government official has met
 
 
-## Recorders of Deeds
+### Recorders of Deeds
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -821,7 +1125,10 @@ Associated People
  - Idenitify any creditors of the candidate
 
 
-## SEC Edgar Full Text Search
+### SEC Edgar Full Text Search
+
+*Federal Records*
+
 Links:
 
 - https://www.sec.gov/edgar/search/#
@@ -856,7 +1163,10 @@ Professional History
  - Identify others with whom a candidate has served as a director or executive for a publicly traded company
 
 
-## SEC Investment Adviser Public Disclosure
+### SEC Investment Adviser Public Disclosure
+
+*Federal Records*
+
 Links:
 
 - https://adviserinfo.sec.gov/
@@ -871,7 +1181,7 @@ Professional History
  - Search for individuals licensed as investment advisers
  - Gather information on the amount of assets under management for an investment adviser as well as other details on its business
 
-Criminal Cases and Civil Litigation
+Civil Litigation and Criminal Cases
 
  - Search for disclosure events for an investment adviser, such as a previous criminal conviction of one of its officers
 
@@ -880,7 +1190,10 @@ Associated People
  - Identify associates of a candidate who has managed an investment adviser
 
 
-## Secretaries of State
+### Secretaries of State
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -914,7 +1227,10 @@ Political History
  - Search for state-level lobbying disclosures
 
 
-## Senate Lobbying Disclosure Act Database
+### Senate Lobbying Disclosure Act Database
+
+*Federal Records*
+
 Links:
 
 - https://lda.senate.gov/system/public/
@@ -931,19 +1247,28 @@ Be aware that the fees reported in lobbying disclosures are rounded to the neare
 Guidance on understanding the Lobbying Disclosure Act's reporting requirements can be found here: https://lobbyingdisclosure.house.gov/ldaguidance.pdf  
 
 Uses:
-Professional History and Associated People
+Professional History
 
  - Identify whether a candidate has previously registered as a lobbyist
  - Identify a lobbyist's clients, the approximate amount of lobbying fees they paid, and the government bodies and policy issues involved in any lobbying activity
 
-Political History and Asociated People
+Political History
 
  - Search for any previous staffers of a candidate who have become lobbyists
  - Identify the lobbyists who have contributed to a candidate's campaign committee or paid for any events honoring the candidate
  - Identify the clients of any lobbyists who have contributed to a candidate's campaign committee
 
+Associated People
 
-## SignalHire
+- Identify a lobbyist's clients and addresses
+- Search for any previous staffers of a candidate
+- Identify the clients of any lobbyists who have contributed to a candidate's campaign committee
+
+
+### SignalHire
+
+*Proprietary Database*
+
 Links:
 
 - https://www.signalhire.com/login?utm_block=1
@@ -961,7 +1286,10 @@ Professional History
  - Identify material deleted from past versions of LinkedIn profiles
 
 
-## State Bar Associations
+### State Bar Associations
+
+*Media and Other Open Sources*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -978,7 +1306,10 @@ Professional History
  - Verify an attorney's educational history
 
 
-## State DMVs
+### State DMVs
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -992,7 +1323,10 @@ Personal Finances
  - Identify vehicles registered to a candidate currently and historically
 
 
-## State Voter Registration Websites
+### State Voter Registration Websites
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -1012,7 +1346,10 @@ Political History
  - Identify a candidate's voter registration
 
 
-## State and Local Procurement Databases
+### State and Local Procurement Databases
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -1025,12 +1362,15 @@ Professional History
 
  - Search for government contracts awarded to a candidate or a candidate's companies
 
- Associated People
+Associated People
 
  - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
 
 
-## State or County Case Indexes
+### State or County Case Indexes
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -1053,7 +1393,10 @@ Associated People
  - Identify any litigation adversaries 
 
 
-## Statewide Criminal History Checks
+### Statewide Criminal History Checks
+
+*State and Local Records*
+
 Links:
 
 - Will vary depending on jurisdiction.
@@ -1067,13 +1410,16 @@ Civil Litigation and Criminal Cases
  - Identify any criminal cases or convictions for a candidate
 
 
-## TLO & LexisNexis
+### TLO & LexisNexis
+
+*Proprietary Database*
+
 Links:
 
 - https://tloxp.tlo.com/login
 
 
-Description: TLO is a proprietary database that aggregates information from ‚Äúcredit headers,‚Äù or the portion of a credit report without financial information, as well as other public and private data. A TLO comprehensive report provides identifying details, address history, associated phone numbers and email addreses and possible employers, among other information. Remember that as a proprietary database, TLO is a secondary source, and anything significant in a TLO report must be verified independently. For this reason, we generally use TLO data to identify leads for further investigation but never as an authoritative source itself. Because of the wide range of data that TLO provides, obtaining and reviewing a TLO report on the candidate is almost always the first step to be taken in any new project.
+Description: TLO is a proprietary database that aggregates information from ìcredit headers,î or the portion of a credit report without financial information, as well as other public and private data. A TLO comprehensive report provides identifying details, address history, associated phone numbers and email addreses and possible employers, among other information. Remember that as a proprietary database, TLO is a secondary source, and anything significant in a TLO report must be verified independently. For this reason, we generally use TLO data to identify leads for further investigation but never as an authoritative source itself. Because of the wide range of data that TLO provides, obtaining and reviewing a TLO report on the candidate is almost always the first step to be taken in any new project.
 
 You will not have direct access to TLO but will receive TLO reports from Sunlight Search staff. Keep TLO in mind and request additional research or reports from Sunlight Staff if you develop leads that require it.
 
@@ -1107,12 +1453,11 @@ Civil Litigation and Criminal Cases
  - Gather leads on any bankruptcy filings by the candidate
  - Gather leads on the candidate's driver's license and past traffic infractions
 
-Potential Interviewees
 
- - Once potential interviewees have been identified, find their contact information
+### Tax Assessors
 
+*State and Local Records*
 
-## Tax Assessors
 Links:
 
 - Will vary depending on jurisdiction.
@@ -1146,7 +1491,10 @@ Associated People
  - If an assessor map is available, identify neighboring properties and their owners
 
 
-## Twitter
+### Twitter/X
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://twitter.com/home
@@ -1164,7 +1512,10 @@ Associated People
  - Identify Twitter users with whom a candidate has interacted
 
 
-## US Coast Guard Port State Information Exchange
+### US Coast Guard Port State Information Exchange
+
+*Federal Records*
+
 Links:
 
 - https://cgmix.uscg.mil/PSIX/PSIXSearch.aspx
@@ -1178,7 +1529,10 @@ Personal Finances
  - Look up the ownership of a vessel if you know its name, hull number, call sign or primary vessel ID
 
 
-## US Court of Federal Claims
+### US Court of Federal Claims
+
+*Federal Records*
+
 Links:
 
 - https://www.govinfo.gov/app/search/ and https://ecf.cofc.uscourts.gov/cgi-bin/CFC_LegacyOpinions.pl
@@ -1192,7 +1546,10 @@ Civil Litigation and Criminal Cases
  - Identify any cases filed by a candidate in US Court of Federal Claims
 
 
-## US Tax Court
+### US Tax Court
+
+*Federal Records*
+
 Links:
 
 - https://dawson.ustaxcourt.gov/
@@ -1206,7 +1563,10 @@ Civil Litigation and Criminal Cases
  - Identify any cases filed by a candidate in US Tax Court
 
 
-## USASpending.Gov
+### USASpending.Gov
+
+*Federal Records*
+
 Links:
 
 - https://www.usaspending.gov/
@@ -1220,13 +1580,16 @@ Professional History
  - Search for government contracts awarded to the candidate or his companies
  - Search for Small Business Administration loans disbursed to the candidate or his companies, such as Paycheck Protection Program loans and Economic Injury Disaster Loans
 
- Associated People
+Associated People
 
  - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
  - Search for Small Business Administration loans disbursed to the candidate's campaign donors, business associates and relatives
 
 
-## USPTO Patent Search
+### USPTO Patent Search
+
+*Federal Records*
+
 Links:
 
 - https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html
@@ -1245,7 +1608,10 @@ Associated People
  - Identify business associates whose names appear together in patent applications
 
 
-## USPTO Trademark Search
+### USPTO Trademark Search
+
+*Federal Records*
+
 Links:
 
 - https://www.uspto.gov/trademarks/search
@@ -1260,7 +1626,10 @@ Professional History
  - Search for trademarks registered to a candidate's known addresses
 
 
-## Venmo
+### Venmo
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://venmo.com/
@@ -1278,7 +1647,10 @@ Associated People
  - Identify Venmo users with whom a candidate has exchanged payments
 
 
-## Vessel Tracking Websites
+### Vessel Tracking Websites
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.marinetraffic.com/ 
@@ -1292,7 +1664,10 @@ Personal Finances
  - Track the current and historical movements of vessels
 
 
-## ViewDNS.Info
+### ViewDNS.Info
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://viewdns.info/
@@ -1306,7 +1681,10 @@ Professional History
  - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
 
 
-## Wayback Machine
+### Wayback Machine
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://archive.org/
@@ -1328,7 +1706,10 @@ Associated People
  - Use archived websites to identify past business associates of a candidate
 
 
-## White House Visitor Logs
+### White House Visitor Logs
+
+*Federal Records*
+
 Links:
 
 - https://www.whitehouse.gov/disclosures/visitor-logs/
@@ -1346,7 +1727,10 @@ Associated People
  - Identify individuals who visited the White House on the same date
 
 
-## Whoxy
+### Whoxy
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.whoxy.com/
@@ -1360,7 +1744,10 @@ Professional History
  - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
 
 
-## YouTube
+### YouTube
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.youtube.com/
@@ -1375,7 +1762,10 @@ Social Media and Other Internet Sources
  - Review videos of press conferences and campaign events
 
 
-## Zillow
+### Zillow
+
+*Media and Other Open Sources*
+
 Links:
 
 - https://www.zillow.com/
