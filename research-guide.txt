@@ -1,170 +1,259 @@
 # Research Guide
 Sunlight Search
 
-2024-07-09
+2024-07-23
 
 
 ## CONTENTS BY USE
-###  Associated People
-
-- SEC Edgar Full Text Search (*Federal Records*)
-
-
 ### Associated People
 
-- DOJ FARA Database (*Federal Records*)
-- Delaware Court of Chancery (*Proprietary Database*)
-- Facebook (*Media and Other Open Sources*)
-- Federal Election Commission (*Federal Records*)
-- Federal Procurement Data System (*Federal Records*)
-- GSA System for Award Management (*Federal Records*)
-- IRS Tax-Exempt Organization Search (*Federal Records*)
-- Instagram (*Media and Other Open Sources*)
-- LinkedIn (*Media and Other Open Sources*)
-- Medical Licensing Boards (*State and Local Records*)
-- Open Corporates (*Media and Other Open Sources*)
-- Other Professional and Business Licensing Bodies (*State and Local Records*)
-- PACER (*Federal Records*)
-- Personal Financial Disclosures (*Federal Records*)
-- ProPublica Nonprofit Explorer (*Media and Other Open Sources*)
-- Public-Record Requests (*Federal Records*)
-- Recorders of Deeds (*State and Local Records*)
-- SEC Investment Adviser Public Disclosure (*Federal Records*)
-- State and Local Procurement Databases (*State and Local Records*)
-- State or County Case Indexes (*State and Local Records*)
-- Tax Assessors (*State and Local Records*)
-- Twitter/X (*Media and Other Open Sources*)
-- USASpending.Gov (*Federal Records*)
-- USPTO Patent Search (*Federal Records*)
-- Venmo (*Media and Other Open Sources*)
-- Wayback Machine (*Media and Other Open Sources*)
-- White House Visitor Logs (*Federal Records*)
+- [DOJ FARA Database](#doj-fara-database) (*Federal Records*)
 
 
 ### Background and Family
 
-- Lexis Nexis (*Proprietary Database*)
-- LinkedIn (*Media and Other Open Sources*)
-- Local Newspapers (*Media and Other Open Sources*)
-- Marriage Indexes (*State and Local Records*)
-- Recorders of Deeds (*State and Local Records*)
-- SignalHire (*Proprietary Database*)
-- State Voter Registration Websites (*State and Local Records*)
-- TLO & LexisNexis (*Proprietary Database*)
+- [Advanced Google Searches](#advanced-google-searches) (*Media and Other Open Sources*)
+- [Ancestry Yearbook Archive](#ancestry-yearbook-archive) (*Media and Other Open Sources*)
+- [Background Check Websites](#background-check-websites) (*Proprietary Database*)
+- [Bing Visual Search](#bing-visual-search) (*Media and Other Open Sources*)
+- [Classmates.com](#classmates.com) (*Media and Other Open Sources*)
+- [Crunchbase](#crunchbase) (*Media and Other Open Sources*)
+- [Data Commons (from Google)](#data-commons-(from-google)) (*Media and Other Open Sources*)
+- [E-Yearbook.com](#e-yearbook.com) (*Media and Other Open Sources*)
+- [FamilySearch Catalog: Yearbook](#familysearch-catalog:-yearbook) (*Media and Other Open Sources*)
+- [Ferretly (paid)](#ferretly-(paid)) (*Media and Other Open Sources*)
+- [Findmypast](#findmypast) (*Media and Other Open Sources*)
+- [Getty Images reverse image lookup](#getty-images-reverse-image-lookup) (*Media and Other Open Sources*)
+- [Golf Handicap & Information Network (GHIN)](#golf-handicap-&-information-network-(ghin)) (*Media and Other Open Sources*)
+- [Google Advanced Video Scholar](#google-advanced-video-scholar) (*Media and Other Open Sources*)
+- [Google Dataset Search](#google-dataset-search) (*Media and Other Open Sources*)
+- [Google Fact Checking](#google-fact-checking) (*Media and Other Open Sources*)
+- [Google Image Search](#google-image-search) (*Media and Other Open Sources*)
+- [Google Scholar](#google-scholar) (*Media and Other Open Sources*)
+- [Lexis Nexis](#lexis-nexis) (*Proprietary Database*)
+- [LinkedIn](#linkedin) (*Media and Other Open Sources*)
+- [Local Newspapers](#local-newspapers) (*Media and Other Open Sources*)
+- [Marriage Indexes](#marriage-indexes) (*State and Local Records*)
+- [Pinterest Visual Search Tool](#pinterest-visual-search-tool) (*Media and Other Open Sources*)
+- [ProPublica: Tracking PPP](#propublica:-tracking-ppp) (*Media and Other Open Sources*)
+- [Recorders of Deeds](#recorders-of-deeds) (*State and Local Records*)
+- [Reddit](#reddit) (*Media and Other Open Sources*)
+- [Redfin](#redfin) (*Media and Other Open Sources*)
+- [SignalHire](#signalhire) (*Proprietary Database*)
+- [State Voter Registration Websites](#state-voter-registration-websites) (*State and Local Records*)
+- [Strava](#strava) (*Media and Other Open Sources*)
+- [TLO & LexisNexis](#tlo-&-lexisnexis) (*Proprietary Database*)
+- [TinEye](#tineye) (*Media and Other Open Sources*)
+- [Trulia](#trulia) (*Media and Other Open Sources*)
+- [Valital (paid)](#valital-(paid)) (*Media and Other Open Sources*)
+- [Yahoo Image Search](#yahoo-image-search) (*Media and Other Open Sources*)
+- [Yandex](#yandex) (*Media and Other Open Sources*)
+- [ancestry.com](#ancestry.com) (*Media and Other Open Sources*)
+- [findagrave.com](#findagrave.com) (*Media and Other Open Sources*)
+- [yearbook.org](#yearbook.org) (*Media and Other Open Sources*)
 
 
 ### Civil Litigation and Criminal Cases
 
-- County and State Inmate Locator Databases (*State and Local Records*)
-- DOJ National Sex Offender Website (*Federal Records*)
-- Delaware Court of Chancery (*Proprietary Database*)
-- Federal Bureau of Prisons (*Federal Records*)
-- Law Enforcement Public-Record Requests (*State and Local Records*)
-- Mugshots.com (*Media and Other Open Sources*)
-- PACER (*Federal Records*)
-- SEC Investment Adviser Public Disclosure (*Federal Records*)
-- State or County Case Indexes (*State and Local Records*)
-- Statewide Criminal History Checks (*State and Local Records*)
-- TLO & LexisNexis (*Proprietary Database*)
-- US Court of Federal Claims (*Federal Records*)
-- US Tax Court (*Federal Records*)
+- [BRB Publications](#brb-publications) (*State and Local Records
+Federal Records*)
+- [County and State Inmate Locator Databases](#county-and-state-inmate-locator-databases) (*State and Local Records*)
+- [DOJ National Sex Offender Website](#doj-national-sex-offender-website) (*Federal Records*)
+- [Delaware Court of Chancery](#delaware-court-of-chancery) (*Proprietary Database*)
+- [Federal Bureau of Prisons](#federal-bureau-of-prisons) (*Federal Records*)
+- [Law Enforcement Public-Record Requests](#law-enforcement-public-record-requests) (*State and Local Records*)
+- [Mugshots.com](#mugshots.com) (*Media and Other Open Sources*)
+- [PACER](#pacer) (*Federal Records*)
+- [State or County Case Indexes](#state-or-county-case-indexes) (*State and Local Records*)
+- [Statewide Criminal History Checks](#statewide-criminal-history-checks) (*State and Local Records*)
+- [US Court of Federal Claims](#us-court-of-federal-claims) (*Federal Records*)
+- [US Tax Court](#us-tax-court) (*Federal Records*)
 
 
 ### Educational History
 
-- Calls to University Registrars (*Telephone*)
+- [Calls to University Registrars](#calls-to-university-registrars) (*Telephone*)
 
 
 ### Nonprofits
 
-- IRS Tax-Exempt Organization Search (*Federal Records*)
-- ProPublica Nonprofit Explorer (*Media and Other Open Sources*)
+- [IRS Tax-Exempt Organization Search](#irs-tax-exempt-organization-search) (*Federal Records*)
+- [ProPublica Nonprofit Explorer](#propublica-nonprofit-explorer) (*Media and Other Open Sources*)
 
 
 ### Personal Finances
 
-- Aircraft Photo Websites (*Media and Other Open Sources*)
-- Aircraft Tracking Websites (*Media and Other Open Sources*)
-- County and Municipal Building Permits (*State and Local Records*)
-- Federal Aviation Administration (*Federal Records*)
-- Google Earth Pro (*Media and Other Open Sources*)
-- Google Maps Street View (*Media and Other Open Sources*)
-- Personal Financial Disclosures (*Federal Records*)
-- Recorders of Deeds (*State and Local Records*)
-- State DMVs (*State and Local Records*)
-- TLO & LexisNexis (*Proprietary Database*)
-- Tax Assessors (*State and Local Records*)
-- US Coast Guard Port State Information Exchange (*Federal Records*)
-- Vessel Tracking Websites (*Media and Other Open Sources*)
-- Zillow (*Media and Other Open Sources*)
+- [Aircraft Photo Websites](#aircraft-photo-websites) (*Media and Other Open Sources*)
+- [Aircraft Tracking Websites](#aircraft-tracking-websites) (*Media and Other Open Sources*)
+- [County and Municipal Building Permits](#county-and-municipal-building-permits) (*State and Local Records*)
+- [Federal Aviation Administration](#federal-aviation-administration) (*Federal Records*)
+- [Google Earth Pro](#google-earth-pro) (*Media and Other Open Sources*)
+- [Google Maps Street View](#google-maps-street-view) (*Media and Other Open Sources*)
+- [Personal Financial Disclosures](#personal-financial-disclosures) (*Federal Records*)
+- [State DMVs](#state-dmvs) (*State and Local Records*)
+- [US Coast Guard Port State Information Exchange](#us-coast-guard-port-state-information-exchange) (*Federal Records*)
+- [Vessel Tracking Websites](#vessel-tracking-websites) (*Media and Other Open Sources*)
 
 
 ### Political History
 
-- County-Level Elections Authority (*State and Local Records*)
-- Federal Election Commission (*Federal Records*)
-- Follow the Money (*Media and Other Open Sources*)
-- Lexis Nexis (*Proprietary Database*)
-- Library of Congress (*Federal Records*)
-- Local Newspapers (*Media and Other Open Sources*)
-- Secretaries of State (*State and Local Records*)
-- Senate Lobbying Disclosure Act Database (*Federal Records*)
-- State Voter Registration Websites (*State and Local Records*)
-- TLO & LexisNexis (*Proprietary Database*)
-- Wayback Machine (*Media and Other Open Sources*)
-- White House Visitor Logs (*Federal Records*)
+- [Ballotpedia](#ballotpedia) (*Media and Other Open Sources*)
+- [Cook Political Report](#cook-political-report) (*Media and Other Open Sources*)
+- [County-Level Elections Authority](#county-level-elections-authority) (*State and Local Records*)
+- [Federal Election Commission](#federal-election-commission) (*Federal Records*)
+- [Follow the Money](#follow-the-money) (*Media and Other Open Sources*)
+- [Legislator Misconduct Database](#legislator-misconduct-database) (*Media and Other Open Sources*)
+- [Library of Congress](#library-of-congress) (*Federal Records*)
+- [OpenSecrets](#opensecrets) (*Media and Other Open Sources*)
+- [White House Visitor Logs](#white-house-visitor-logs) (*Federal Records*)
 
 
 ### Professional History
 
-- Calls to Employers (*Telephone*)
-- Department of Labor Form 5500 Database (*Federal Records*)
-- FINRA Brokercheck (*Media and Other Open Sources*)
-- Federal Procurement Data System (*Federal Records*)
-- GSA System for Award Management (*Federal Records*)
-- Glassdoor (*Media and Other Open Sources*)
-- Lexis Nexis (*Proprietary Database*)
-- LinkedIn (*Media and Other Open Sources*)
-- Local Newspapers (*Media and Other Open Sources*)
-- Medical Licensing Boards (*State and Local Records*)
-- Military Records (*Federal Records*)
-- Open Corporates (*Media and Other Open Sources*)
-- Other Professional and Business Licensing Bodies (*State and Local Records*)
-- Public-Record Requests (*Federal Records*)
-- Recorders of Deeds (*State and Local Records*)
-- SEC Edgar Full Text Search (*Federal Records*)
-- SEC Investment Adviser Public Disclosure (*Federal Records*)
-- Secretaries of State (*State and Local Records*)
-- Senate Lobbying Disclosure Act Database (*Federal Records*)
-- SignalHire (*Proprietary Database*)
-- State Bar Associations (*Media and Other Open Sources*)
-- State and Local Procurement Databases (*State and Local Records*)
-- TLO & LexisNexis (*Proprietary Database*)
-- Tax Assessors (*State and Local Records*)
-- USASpending.Gov (*Federal Records*)
-- USPTO Patent Search (*Federal Records*)
-- USPTO Trademark Search (*Federal Records*)
-- ViewDNS.Info (*Media and Other Open Sources*)
-- Wayback Machine (*Media and Other Open Sources*)
-- Whoxy (*Media and Other Open Sources*)
-- Zillow (*Media and Other Open Sources*)
+- [Calls to Employers](#calls-to-employers) (*Telephone*)
+- [Database for UCC Filings](#database-for-ucc-filings) (*State and Local Records*)
+- [Department of Labor Form 5500 Database](#department-of-labor-form-5500-database) (*Federal Records*)
+- [FINRA Brokercheck](#finra-brokercheck) (*Media and Other Open Sources*)
+- [Federal Audit Clearinghouse](#federal-audit-clearinghouse) (*Federal Records*)
+- [Federal Procurement Data System](#federal-procurement-data-system) (*Federal Records*)
+- [GSA System for Award Management](#gsa-system-for-award-management) (*Federal Records*)
+- [Glassdoor](#glassdoor) (*Media and Other Open Sources*)
+- [Medical Licensing Boards](#medical-licensing-boards) (*State and Local Records*)
+- [Military Records](#military-records) (*Federal Records*)
+- [Open Corporates](#open-corporates) (*Media and Other Open Sources*)
+- [Other Professional and Business Licensing Bodies](#other-professional-and-business-licensing-bodies) (*State and Local Records*)
+- [Public-Record Requests](#public-record-requests) (*Federal Records*)
+- [SEC Edgar Full Text Search](#sec-edgar-full-text-search) (*Federal Records*)
+- [SEC Investment Adviser Public Disclosure](#sec-investment-adviser-public-disclosure) (*Federal Records*)
+- [Secretaries of State](#secretaries-of-state) (*State and Local Records*)
+- [Senate Lobbying Disclosure Act Database](#senate-lobbying-disclosure-act-database) (*Federal Records*)
+- [State Bar Associations](#state-bar-associations) (*Media and Other Open Sources*)
+- [State and Local Procurement Databases](#state-and-local-procurement-databases) (*State and Local Records*)
+- [Tax Assessors](#tax-assessors) (*State and Local Records*)
+- [USASpending.Gov](#usaspending.gov) (*Federal Records*)
+- [USPTO Patent Search](#uspto-patent-search) (*Federal Records*)
+- [USPTO Trademark Search](#uspto-trademark-search) (*Federal Records*)
+- [ViewDNS.Info](#viewdns.info) (*Media and Other Open Sources*)
+- [Wayback Machine](#wayback-machine) (*Media and Other Open Sources*)
+- [Whoxy](#whoxy) (*Media and Other Open Sources*)
+- [Zillow](#zillow) (*Media and Other Open Sources*)
 
 
-### Social Media and Other Internet Sources
+### Professional History 
 
-- Archive.Is (*Media and Other Open Sources*)
-- Facebook (*Media and Other Open Sources*)
-- Instagram (*Media and Other Open Sources*)
-- Intel Techniques Online Tools (*Media and Other Open Sources*)
-- LinkedIn (*Media and Other Open Sources*)
-- Pimeyes.com (*Media and Other Open Sources*)
-- Politwoops (*Media and Other Open Sources*)
-- Twitter/X (*Media and Other Open Sources*)
-- Venmo (*Media and Other Open Sources*)
-- YouTube (*Media and Other Open Sources*)
+- [Secretary of State business searches
+Delaware
+Florida
+Nevada
+Texas](#secretary-of-state-business-searches
+delaware
+florida
+nevada
+texas) (*State and Local Records*)
+
+
+### Social Media
+
+- [4chan](#4chan) (*Media and Other Open Sources*)
+- [8chan (8kun)](#8chan-(8kun)) (*Media and Other Open Sources*)
+- [Archive.Is](#archive.is) (*Media and Other Open Sources*)
+- [Discord](#discord) (*Media and Other Open Sources*)
+- [Donately](#donately) (*Media and Other Open Sources*)
+- [Donorbox](#donorbox) (*Media and Other Open Sources*)
+- [Element](#element) (*Media and Other Open Sources*)
+- [Epik](#epik) (*Media and Other Open Sources*)
+- [Facebook](#facebook) (*Media and Other Open Sources*)
+- [FundRazr](#fundrazr) (*Media and Other Open Sources*)
+- [Fundly](#fundly) (*Media and Other Open Sources*)
+- [GETTR](#gettr) (*Media and Other Open Sources*)
+- [Gab](#gab) (*Media and Other Open Sources*)
+- [GiveSendGo](#givesendgo) (*Media and Other Open Sources*)
+- [GoFraudMe](#gofraudme) (*Media and Other Open Sources*)
+- [GoFundMe](#gofundme) (*Media and Other Open Sources*)
+- [GoGetFunding](#gogetfunding) (*Media and Other Open Sources*)
+- [Instagram](#instagram) (*Media and Other Open Sources*)
+- [Intel Techniques Online Tools](#intel-techniques-online-tools) (*Media and Other Open Sources*)
+- [Keybase](#keybase) (*Media and Other Open Sources*)
+- [Kiwi Farms](#kiwi-farms) (*Media and Other Open Sources*)
+- [Mastodon](#mastodon) (*Media and Other Open Sources*)
+- [MeWe](#mewe) (*Media and Other Open Sources*)
+- [Medium](#medium) (*Media and Other Open Sources*)
+- [NEXUS Mountain Network](#nexus-mountain-network) (*Media and Other Open Sources*)
+- [Parler](#parler) (*Media and Other Open Sources*)
+- [Patriots.win](#patriots.win) (*Media and Other Open Sources*)
+- [PayPal](#paypal) (*Media and Other Open Sources*)
+- [Pimeyes.com](#pimeyes.com) (*Media and Other Open Sources*)
+- [Politwoops](#politwoops) (*Media and Other Open Sources*)
+- [Rocket.Chat](#rocket.chat) (*Media and Other Open Sources*)
+- [Rumble](#rumble) (*Media and Other Open Sources*)
+- [Signal ](#signal-) (*Media and Other Open Sources*)
+- [Snapchat](#snapchat) (*Media and Other Open Sources*)
+- [Substack](#substack) (*Media and Other Open Sources*)
+- [Telegram](#telegram) (*Media and Other Open Sources*)
+- [Truth Social](#truth-social) (*Media and Other Open Sources*)
+- [Tumblr](#tumblr) (*Media and Other Open Sources*)
+- [Twitter/X](#twitter/x) (*Media and Other Open Sources*)
+- [Venmo](#venmo) (*Media and Other Open Sources*)
+- [WhatsApp](#whatsapp) (*Media and Other Open Sources*)
+- [Wire](#wire) (*Media and Other Open Sources*)
+- [YouTube](#youtube) (*Media and Other Open Sources*)
 
 
 ## RESOURCES
+### 4chan
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.4chan.org/index.php
+
+
+Description: 4chan is an English language imageboard where people can post and discuss pictures and other images. It has lax censorship and moderation policies, so it’s been subject to controversy in the past, including pranks and harassment against websites and internet users, and the posting of illegal and offensive content. When looking at this website, you can scrape it using 4plebs.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### 8chan (8kun)
+
+*Media and Other Open Sources*
+
+Description: Now 8kun, previously called 8chan, Infinitechan or Infinitychan (stylized as inf-chan), this is an imageboard website composed of user-created message boards. An owner moderates each board, with minimal interaction from site administration. The site has been linked to white supremacism, neo-Nazism, the alt-right, racism and antisemitism, hate crimes, and multiple mass shootings. The site has been known to host child pornography; as a result, it was filtered out from Google Search in 2015.  Several of the site's boards played an active role in the Gamergateharassment campaign, encouraging Gamergate affiliates to frequent 8chan after 4chan banned the topic. 8chan is the origin and main center of activity of the discredited QAnon conspiracy theory. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Advanced Google Searches
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.google.com/advanced_search
+
+
+Description: This link sends you to the Advanced Google Search page. It utilizes Boolean search techniques, while making it easy for you to search by plugging in exact words or phrases you want to find, for example.  
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
 ### Aircraft Photo Websites
 
 *Media and Other Open Sources*
@@ -178,6 +267,7 @@ Links:
 Description: Planespotting enthusiasts take photos of airplanes and upload them to websites such as Planespotters.net and JetPhotos.com. These websites occasionally provide information on the beneficial owner or lessee of an aircraft that may not be available in official registration documents. For example, photos on JetPhotos.com show that President Obama used a jet with tail number N755NA during his campaign in 2008. With this tail number, we can use plane tracking websites, described below, to track the historical movements of the plane and look for relevant patterns. We can also submit public-record requests to the FAA for passenger manifests to identify individuals who have traveled with a candidate. In addition to searching on planespotting website, keep an eye out for any aircraft that appear in campaign photos or in the backgrounds of filmed campaign rallies. 
 
 Uses:
+
 Personal Finances
 
  - Identify aircraft owned by a candidate or used by a candidate's campaign
@@ -197,9 +287,28 @@ Links:
 Description: Several websites provide real-time and historical location data on aircraft. The current location and itinerary of an aircraft is available for free, but data on historical movements dating back in time may require a purchase. 
 
 Uses:
+
 Personal Finances
 
  - Track the current and historical movements of aircraft
+
+
+### Ancestry Yearbook Archive
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.ancestry.com/search/collections/1265/
+
+
+Description: The Ancestry Yearbook Archive allows you to search for U.S. School Yearbooks from 1900 until 2016. You can search using a name, their birth year, and where they lived. You can also search for keywords and certain yearbook dates. The collection has images of yearbooks throughout the United States. 
+
+Uses:
+
+Background and Family
+Educational History
+Associated People
 
 
 ### Archive.Is
@@ -209,9 +318,100 @@ Personal Finances
 Description: Although the Wayback Machine is an excellent resource for archived websites, Archive.IS serves a different function. It includes archives of social media content from different historical dates. 
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Identified archived social media such as deleted tweets
+
+
+### BRB Publications
+
+*State and Local Records
+Federal Records*
+
+Links:
+
+- https://www.brbpublications.com/free-resources/public-record-sites
+
+
+Description: BRB Publications has a compilation of references and websites used for locating public records. It provides lists of links that lead to government agency sites, and if the agency provides free online public record searching and access, they direct you there. 
+
+Uses:
+
+Civil Litigation and Criminal Cases
+
+Associated People
+
+Background and Family
+
+Professional History
+
+
+### Background Check Websites
+
+*Proprietary Database*
+
+Links:
+
+- https://money.com/best-background-check-sites/
+
+
+Description: If you don't have access to TLO or LexisNexis, use this link to check out alternative options.
+
+Uses:
+
+Background and Family
+
+Educational History
+
+Professional History
+
+Civil Litigation and Criminal Cases
+
+Associated People
+
+
+### Ballotpedia
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://ballotpedia.org/Main_Page
+
+
+Description: Ballotpedia has informaiton on American politics, politicians, and elections with the goal of informing people about politics through accurate and objective information. This is a good resource to search when looking for information on your candidate, their opponent, or the district they are running in. 
+
+Uses:
+
+Political History
+
+Campaign Finance
+
+
+### Bing Visual Search
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.bing.com/images/feed
+
+
+Description: With Bing Visual Search, you can search the internet using images instead of text. Using this tool, you can find similar images, products, pages that include an image, or even things like recipes. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Calls to Employers
@@ -228,6 +428,7 @@ Description: Calls to employers may allow us to verify a candidate's claimed pro
 Never make a phone call, even to verify a past job, without the prior authorization of Brandi.
 
 Uses:
+
 Professional History
 
  - Verify a candidate's claimed professional history
@@ -247,9 +448,46 @@ Description: Calling the university registrar is the most straightforward way to
 Never make a phone call, even to verify a degree, without the prior authorization of Brandi.
 
 Uses:
+
 Educational History
 
  - Verify a candidate's claimed education history
+
+
+### Classmates.com
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://classmates.com/
+
+
+Description: Classmates.com is an online network service in the US for bringing high school alumni together. You can create an account and search for alumni. 
+
+Uses:
+
+Background and Family
+Educational History
+Associated People
+
+
+### Cook Political Report
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.cookpolitical.com/
+
+
+Description: Cook Political Report is an independent, non-partisan newsletter that analyzes elections and campaigns for Congress, governor, and President. It also analyzes American political trends. Use this page to understand more information about your candidate, their opposition, and the district they are running in. 
+
+Uses:
+
+Political History
+
+Campaign Finance
 
 
 ### County and Municipal Building Permits
@@ -264,9 +502,11 @@ Links:
 Description: Depending on the location of a property, county or municipal permits may be required for any significant construction affecting the property. Some local governments provide online databases of these permits, and records available through these databases can provide further details on the lifestyle of a candidate.
 
 Uses:
-Personal Finances
 
+Personal Finances
  - Search for any building permits for a property
+
+Background and Family
 
 
 ### County and State Inmate Locator Databases
@@ -281,6 +521,7 @@ Links:
 Description: Counties and states will vary widely in the public availability of inmate and arrest records. Whereas the Federal Bureau of Prisons inmate locator includes both current inmates and released inmates, many state and local databases include only currently incarcerated inmates. Find the available resources in the jurisdictions where the candidate has lived, and search for any arrest or inmate records. Generally, a county jail is operated by the county sheriff, and a state prison system is operated by a state department of corrections or equivalent authority. 
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify arrest and inmate records for a candidate
@@ -298,10 +539,29 @@ Links:
 Description: Generally, a county-level elections authority will generally maintain voter registration records and a history of past elections in which a registered voter cast a ballot. This information will generally need to be obtaiend through a public-records request. However, if a research can identify the relevant county authority and its rules of submitting such a request, it will spped up the research process.
 
 Uses:
+
 Political History
 
  - Obtain information on the elections in which a candidate previously voted
  - Verify a candidate's voter registration history
+
+
+### Crunchbase
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.crunchbase.com/discover/organization.companies
+
+
+Description: Crunchbase is a database and search tool providing information about businesses with a particular focus on tech companies and startups. They compile and organize informaiton regarding company ownership, governance, funding, markets, and provide links to news events concerning a given business or company.
+
+Uses:
+
+Background and Family
+Professional History
+Educational History
 
 
 ### DOJ FARA Database
@@ -316,6 +576,7 @@ Links:
 Description: Agents of foreign clients who seek to influence US policy must register as such with the Department of Justice. This is true for both foreign government clients and private sector clients. 
 
 Uses:
+
 Associated People
 
  - Identify any foreign clients of lobbyists or public relations firms
@@ -333,9 +594,53 @@ Links:
 Description: The Department of Justice operates this website, which includes information on registered sex offenders from all 50 states, the District of Columbia, Native American tribes, and US territories. The name search is self explanatory.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify registered sex ofender records naming a candidate
+
+
+### Data Commons (from Google)
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://datacommons.org/
+
+
+Description: Data Commons is a community-based resource. Individuals and organizations can contribute data, code, documentation and educational materials to the site. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Database for UCC Filings
+
+*State and Local Records*
+
+Links:
+
+- https://www.nass.org/business-services/ucc-filings
+
+
+Description: UCC search databases provide access to Universal Commercial Code documents. UCC filings provide standardized records of business transactions and are a good source of information regarding debts, loans, payments and transfers of commodity/business ownership.
+
+Uses:
+
+Professional History
+Civil Litigation and Criminal Cases
+Associated People
 
 
 ### Delaware Court of Chancery
@@ -352,6 +657,7 @@ Description: The Delaware Chancery Court is a specialized court that hears dispu
 We use a database named File & Serve Express for this research. After logging in, use the "Search" dropdown menu to select "Cases Search." Limit your search to Delaware and the Court of Chancery, and then search by party name. Save and discuss any results with your case manager as it can be expensive to download filings from this database.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify any cases naming a candidate as a part in Delaware Court of Chancery
@@ -374,9 +680,113 @@ Links:
 Description: Under federal regulations, companies that offer 401k plans and certain other employee benefit plans must file Form 5500s with the Department of Labor. These provide intelligence on a company's employee headcount and changes to the company's business over time. For example, a candidate may claim to have managed a successful business, while Form 5500s filed with Department of Labor show that the number of participants in the company's 401k plan dwindled over time. Remember that companies may reduce the size of their workforce for reasons other than poor business performance, and many employees might not participate in a 401k plan. Some companies outsource their employee benefits to a third-party provider and do not file Form 5500s.
 
 Uses:
+
 Professional History
 
  - Gather information on a company's employee headcount over time
+
+
+### Discord
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://discord.com/
+
+
+Description: Discord is an instant messaging and social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers"
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Donately
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://donately.com
+
+
+Description: Donately is another online fundraising website. Their platform allows organizations to accept donations online, create customizable donation forms, and track donor activity. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Donorbox
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://donorbox.org/uhhm-general-donations?gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqXaq2YRwqBXHS6ZUJcotolx45UI81LucjM01uNe0QoWKxQIvM4c1DUaArFiEALw_wcB
+
+
+Description: Donorbox provides an online fundraising platform which allows individuals and nonprofit organizations to facilitate online donations. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### E-Yearbook.com
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://e-yearbook.com/
+
+
+Description: E-Yearbook.com is a collection of old and new college and university yearbooks on the Internet. 
+
+Uses:
+
+Background and Family
+Educational History
+Associated People
+
+
+### Element
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://element.io/
+
+
+Description: Element is a free and open-source software instant messaging client implementing the Matrix protocol. Element supports end-to-end encryption, private and public groups, sharing of files between users, voice and video calls, and other collaborative features with help of bots and widgets.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Epik
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.epik.com/
+
+
+Description: Epik is an American domain registrar and web hosting company known for providing services to alt-tech websites that host far-right, neo-Nazi, and other extremist materials. It has been described as a "safehaven for the extreme right" because of its willingness to provide services to far-right websites that have been denied service by other Internet service providers. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### FINRA Brokercheck
@@ -391,6 +801,7 @@ Links:
 Description: Many finance professionals are registered with FINRA, the finance industry's self-regulatory organization. Disputes between finance professionals and their customers may be adjudicated by FINRA arbitration panels. FINRA Brokercheck allows members of the public to view a detailed report on anyone currently or historically registered with FINRA. The report includes any disciplinary history associated with the broker's license as well as a self-reported professional history for the broker.
 
 Uses:
+
 Professional History
 
  - Search for securities broker licenses
@@ -410,13 +821,51 @@ Links:
 Description: Identify a candidate's Facebook profiles and review the content available publicly. Facebook's search function is no longer very helpful for anything beyond identifying profiles. If a candidate's profile is private, there may still be publicly available content on the profiles of his or her relatives and friends. Search for the profiles of a candidate's immediate relatives to find additional content that may not be available on the candidate's profile. 
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Review a candidate's Facebook activity 
 
 Associated People
 
  - Identify Facebook users with whom a candidate has interacted
+
+
+### FamilySearch Catalog: Yearbook
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.familysearch.org/library/books/
+
+
+Description: The FamilySearch Digital Library has various searchable books, including yearbooks. You can search for the name of a person, the name of a birthplace, or some other keyword. 
+
+Uses:
+
+Background and Family
+Educational History
+Associated People
+
+
+### Federal Audit Clearinghouse
+
+*Federal Records*
+
+Links:
+
+- https://www.fac.gov/
+
+
+Description: The Federal Audit Clearinghouse (FAC) is where federal grant audits can be submitted and reviewed. You can use this database to search for audits connected to your candidate or their companies. 
+
+Uses:
+
+Professional History
+Civil Litigation and Criminal Cases
+Associated People
+Personal Finances
 
 
 ### Federal Aviation Administration
@@ -431,6 +880,7 @@ Links:
 Description: The FAA allows searches by the name of an aircraft's registered owner. However, many aircraft are owned by companies or trusts. If you know of any companies the candidate controls, search for any aircraft they may own. If you have identified any aircraft in campaign photos or other sources, try to identify the tail number on the aircraft and search the FAA database by this number.
 
 Uses:
+
 Personal Finances
 
  - Identify aircraft registered to a candidate or the candidate's known businesses
@@ -448,6 +898,7 @@ Links:
 Description: As noted immediately above, this database includes both currently incarcerated and released inmates. Its search function is self explanatory. For any inmate identified, be sure to find any corresponding criminal cases in PACER.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify federal inmate records for a candidate
@@ -477,6 +928,7 @@ The FEC allows members of the public to browse data on independent expenditures,
 Candidates who have previously run for elected office at the state or local level will have submitted campaign finance reports to the elections authorities in the relevant juridictions. The nature of this data will vary, but to the extent possible, we will seek to replicate our analysis of federal campaign finance data at the state and local level.
 
 Uses:
+
 Political History
 
  - Look up federal campaign contributions made by specific individuals or organizations
@@ -506,6 +958,7 @@ Links:
 Description: This database is maintained by the US General Services Adminsitration and is complementary to the database described above. 
 
 Uses:
+
 Professional History
 
  - Search for government contracts awarded to the candidate or his companies
@@ -515,6 +968,56 @@ Associated People
 
  - Search for government contracts awarded to the candidate's campaign donors, business associates and relatives
  - Search for Small Business Administration loans disbursed to the candidate's campaign donors, business associates and relatives
+
+
+### Ferretly (paid)
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.ferretly.com/get-started?utm_source=google&utm_medium=cpc&utm_campaign=20378078591&utm_term=ferretly&utm_content=151458400076&keyword=ferretly&matchtype=p&tracking=search&placement=&device=c&adname=666059576138&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqVdrpNUsxT42et19W7e_5GLnR6TmWs1izznZpwIwPjmWtEMvka-lgQaAqzbEALw_wcB
+
+
+Description: Ferretly is a paid research tool that aggregates social media activity from multiple accounts held by an individual. You can use this tool to find different social media accounts held by a POI across different platforms. It also collects posts and media shared from a given person across different social media sites.
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Findmypast
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://search.findmypast.com/search-world-records-in-education-and-work/and_schools-and-education
+
+
+Description: Findmypast is a UK-based online genealogy service that hosts billions of searchable records of census, directory, historical record, chiurch and newspaper information. It has information from across the English-speaking world, but it tends to concentrate on the former British empire and the UK, so it's particularly helpful for finding archives from the British Isles, Australia, New Zealand, and Canada. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Follow the Money
@@ -529,9 +1032,61 @@ Links:
 Description: Follow the Money aggregates campaign finance data from the federal, state and local level in a single online database. Because the FEC database is so useful, Follow the Money's primary value is in allowing a nationwide seach of state and local campaign finance data. As a secondary source, any findings from Follow the Money should be verified directly through the relevant elections authority. Searches should still be conducted directly in the databases of any elections authorities in the state and local jurisdictions where a canidate has lived. However, Follow the Money can help us check this research for completeness, and it can identify contributions that a candidate may have made in other jurisdictions, where we may not have known to search.
 
 Uses:
+
 Political History
 
  - Search for campaign contributions from specific donors at the state and local level 
+
+
+### FundRazr
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://fundrazr.com/
+
+
+Description: FundRazr is free crowdfunding and online fundraosing platform. Users can raise money for over 100 different types of causes, and the platform provides 8 different campaign types.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Fundly
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://fundly.com/pricing.html
+
+
+Description: Fundly is a peer-to-peer fundaising platform intended to empower organizations to raise money and awareness for causes, communities, and events that are important to them. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### GETTR
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://about.gettr.com/
+
+
+Description: GETTR is an alt-tech social media platform and microblogging site targeting American conservatives. It has been described as similar to Twitter/X due to its user interface and features. Content on this platform can reportedly be extreme, including racism, antisemitism, and terrorist propoganda.
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### GSA System for Award Management
@@ -548,6 +1103,7 @@ Description: Like the procurement database described immediately above, this dat
 You will need to create a free account to use this database. When you search for a contractor, be sure that you search for both active and inactive contractors by using the options in the left-hand panel.
 
 Uses:
+
 Professional History
 
  - Search for information of specific public tenders
@@ -557,6 +1113,65 @@ Professional History
 Associated People
 
  - Search for any disciplinary history or debarments affecting government contractors associated with campaign donors, business associates or relatives
+
+
+### Gab
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://gab.com/
+
+
+Description: Gab is an alt-tech microblogging and social networking service known for its far-right userbase. It has been described as a haven for neo-Nazis, racists, white supremacists, white nationalists, antisemites, the alt-right, and believers in conspiracy theories. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Getty Images reverse image lookup
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.gettyimages.com/
+
+
+Description: On Getty Images, you can conduct a reverse image search. You can search either by uploading a photo or by using an image keyword. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### GiveSendGo
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.givesendgo.com/?kuid=61ecbb27-8571-40e7-ab1d-87620d9ab0df&kref=https%3A%2F%2Floganchristopher.com%2F&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqXH8paRvCJ5dkbX3UJHBFsReMuOSXGUMEzRxwLu2JTVi4m800z7T74aAkpuEALw_wcB
+
+
+Description: GiveSendGo is a Christian crowdfunding website that has attracted controversy for allowing far-right extremists to fundraise, including neo-Nazis, white supremacists and hate groups. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### Glassdoor
@@ -571,9 +1186,80 @@ Links:
 Description: Because the reviews posted on Glassdoor are anonymous, they are not reliable by themselves, but they may raise issues for further research or interviews. You may need to register and leave a review of a former employer in order to view Glassdoor content.
 
 Uses:
+
 Professional History
 
  - Read anonymous employee reviews of a candidate's companies
+
+
+### GoFraudMe
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://gofraudme.com/
+
+
+Description: GoFraudMe is a website that can help you find fraudulent GoFundMe accounts. It also teaches you how to notice red flags and spot fake accounts. While the website isn't very up-to-date, it's useful to search for previous GoFundMe campaigns which your candidate is connected to. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### GoFundMe
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.gofundme.com/
+
+
+Description: GoFundMe is an American for-profit crowdfunding platform that allows people to raise money for events ranging from celebrations and graduations to challenging circumstances like accidents and illnesses. If the candidate is connected to one of these pages, it's important to look for GoFundMe red flags, such as the site providing very few details or not explaining how the organizer is connected to the victim or family.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### GoGetFunding
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://gogetfunding.com/
+
+
+Description: GoGetFunding is a personal fundraising platform that allows individuals to create fundraising pages for various causes and events. It has other features such as personal fundraising guidance, customizable themes, and support for multi-currency donations. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Golf Handicap & Information Network (GHIN)
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.ghin.com/login
+
+
+Description: GHIN is a large handicap management tool that serves more than 2 million golfers.When logging in, you can post scores, track statistics, and search for other golfers.  
+
+Uses:
+
+Background and Family
+Personal Finances
+Social Media
+Associated People
 
 
 ### Google
@@ -588,7 +1274,58 @@ Links:
 Description: Everyone knows how to use Google, but command of advanced Google search terms will aid your research. Most people are familiar with the use of quotation marks to search for an exact search term. To exclude a specific term from your results, enter it in the search bar preceded by a dash. For example, -Mintz would eliminate any pages with the term "Mintz" in them. The site: operator returns only results in a particular site or domain. For example, a search including site:.gov would return only results from the .gov domain. Finally, the filetype: operator allows you to return only documents of a certain fileype. For example, a search including filetype:pdf would return only pdf results. This article presents more advanced search term operators: https://ahrefs.com/blog/google-advanced-search-operators/  
 
 Uses:
-Google will be so ubiquitous in your research that it defies categorization. It will be necessary to locate many of the resources described elsewhere in this guide. For example, when searching for the Recorder of Deeds in a new jurisdiction, you will need to use Google to find it. 
+
+- Google will be so ubiquitous in your research that it defies categorization. It will be necessary to locate many of the resources described elsewhere in this guide. For example, when searching for the Recorder of Deeds in a new jurisdiction, you will need to use Google to find it. 
+
+
+### Google Advanced Video Scholar
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.google.com/advanced_video_search
+
+
+Description: This link is similar to the Advanced Google Search page, but specifically for video searches. You can narrow your searches here by language, length of video, posting date, and more. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Google Dataset Search
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://datasetsearch.research.google.com/
+
+
+Description: Google Dataset Search is a search engine for datasets. You can use a simple keyword search to discover datasets hosted in thousands of repositories all across the internet. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Google Earth Pro
@@ -603,9 +1340,61 @@ Links:
 Description: Download Google Earth Pro for Desktop to access all of Google Earth's features. After zooming to an area of interest, you can view historical satellite imagery by clicking the clock icon in the upper lefthand corner of the screen.
 
 Uses:
-Personal Finances
 
+Personal Finances
  - View historical satellite images to analyze changes to a property over time
+
+Background and Family
+
+
+### Google Fact Checking
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://toolbox.google.com/factcheck/explorer/search/list:recent;hl=en
+
+
+Description: Google Fact Check Explorer combines the work of fact checkers, journalists, and researches in discovering what has and hasn't been debunked around the world. You can upload photos in the "Search fact checks" bar to see if the photo has been fact checked in the past. This can also tell you when the photo first appeared online. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Google Image Search
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://images.google.com/
+
+
+Description: Google Image Search allows users to search for images hosted on internet websites related to a given text input. The site also allows for reverse image searches, where the user provides an image or a link to an image and the search engine returns similar images and websites where those images are hosted.
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Google Maps Street View
@@ -620,9 +1409,37 @@ Links:
 Description: From Google Maps, enter Street View by dragging the orange personicon onto the street you want to view. To view historical Street View images, click on the "See more dates" link in the top right of the screen.
 
 Uses:
+
 Personal Finances
 
  - View historical street view images to analyze changes to a property over time
+
+Background and Family
+
+
+### Google Scholar
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://scholar.google.com/
+
+
+Description: Google Scholar is an academic journal and patent search engine. This website provides a comprehensive search over a wide range of scholarly journals, databases, preprint servers and USPTO archives. You can use this search tool to find academic texts and articles written by an individual.
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### IRS Tax-Exempt Organization Search
@@ -637,6 +1454,7 @@ Links:
 Description: The IRS Tax-Exempt Organization search is an official repository of nonprofits records, including determination letters and annual reports, which are named IRS Form 990s. The database is only searchable by organization name or tax identification number.
 
 Uses:
+
 Nonprofits
 
  - Verify the existence and nonprofit status of a charity
@@ -660,7 +1478,8 @@ Links:
 Description: Identify a candidate's Instagram profiles and review the content available publicly. Never "friend" or "follow a candididate on anysocial media platform in order to get acces to content that is otherwise not public.
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Review a candidate's Instagram activity 
 
@@ -681,10 +1500,45 @@ Links:
 Description: Intel Techniques is a website maintained by Michael Bazzell, an expert in open-source intelligence, cybersecurity and privacy. The site has a number of tools for open-source research based on phone numbers, email addresses and other data. The most useful tool may be the username search. Using any known usernames for a candidate, such as email addresses or handles for Twitter and Instagram, run the username searches available on Intel Techniques. These may identify other websites where the candidate has used the same usernames. 
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Find social media profiles of a candidate
  - Use other open-source tools as needed
+
+
+### Keybase
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://keybase.io/
+
+
+Description: Keybase is a key directory that maps social media identities to encryption keys (including, but not limited to PGP keys) in a publicly auditable manner. It also offers an end-to-end encrypted chat and cloud storage system, called Keybase Chat and the Keybase Filesystem respectively.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Kiwi Farms
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://kiwifarms.net/
+
+
+Description: This is a web forum that facilitates the discussion and harassment of online figures and communities. Their targets are often subject to organized group trolling and stalking, as well as doxxing (publicly providing personally identifiable information without their consent) and real-life harassment. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### Law Enforcement Public-Record Requests
@@ -701,10 +1555,29 @@ Description: Public-record requests to law enforcement agencies in the jurisdict
 Our partners will file these requests for us, but we need to compile a list of the relevant law enforcement agencies in order for them to do so. In any given jurisdiction, there will generally be a municipal or county police department -- sometimes both. There will also generally be a county sheriff's office, which is distinct from the county police. And at the state-level, there is generally a state police force, often called a state highway patrol or state troopers.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify police reports naming a candidate
  - Find information on calls for service to a candidate's residence
+
+
+### Legislator Misconduct Database
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.govtrack.us/misconduct
+
+
+Description: This database has compiled this public information on congressional investigations, criminal convictions, censures by and expulsions from Congress, and more. It includes alleged and actual misconduct by legislators in Congress from 1789 until now. Use this to see any misconduct in a candidate's past (if they have served before). 
+
+Uses:
+
+Political History
+
+Campaign Finance
 
 
 ### Lexis Nexis
@@ -719,6 +1592,7 @@ Links:
 Description: Lexis Nexis provides us access to a broad collection of media, much of which would otherwise be behind a paywall. It also has an advantage over Google in that its search returns any documents that match our search terms, whereas Google's algorithm may suppress unpopular results that are nevertheless valuable to our research. If a candidate has had a long career in politics or other closely watched industries, there may be a volume of coverage that makes it impossible to review every "hit" naming the candidate in Lexis Nexis. In these cases, you will need to design search threads to return more limited sets of documents. For example, a "bad word" search might look something like: FIRST NAME /2 LAST NAME AND (CORRUPTION OR FRAUD OR CONTROVERSY OR MISCONDUCT). 
 
 Uses:
+
 Background and Family
 
  - FInd press coverage of a candidate and his or her family in their hometown
@@ -730,6 +1604,10 @@ Professional History
 Political History
 
  - Identify local issues related to a candidate and voters in his or her district or state
+
+Associated People
+
+Civil Litigation and Criminal Cases
 
 
 ### Library of Congress
@@ -744,6 +1622,7 @@ Links:
 Description: This website maintains an official record of federal legislation and Congressional resolutions and can be researched for information on bills and resolutions sponsored by a Congressional member as well as roll call voting records for specific bills and resolutions.
 
 Uses:
+
 Political History
 
  - Research bills and resolutions sponsored by a member of Congress
@@ -766,6 +1645,7 @@ To identify former employees of specific companies, familiarize yourself with th
 In some cases, LinkedIn may not allow you to view the full profile of someone outside your network. It is often possible to bypass this restriction by copying the visible text of the profile and then pasting it into the Google search bar. Put the text in quotation marks, and limit your search to the LinkedIn domain by adding site:linkedin.com to your search terms. Your Google search results should include the profile of interest, and by clicking the Google hyperlink, you should be able to view the full profile.
 
 Uses:
+
 Background and Family
 
  - Idenitfy the claimed educational and professional history of the candidate's spouse, children and other immediate relatives
@@ -774,7 +1654,7 @@ Professional History
 
  - Identify the claimed professional history of the candidate
 
-Social Media and Other Internet Sources
+Social Media
 
  - Review any posts, comments, images, and reactions to examine the candidate's LinkedIn activity
  - Reviewed any skills that the candidate claims and who has endorsed them
@@ -793,12 +1673,13 @@ Associated People
 
 Links:
 
-- Will vary depending on jurisdiction.
+- Will vary depending on jurisdiction, but checking newspapers.com is a good habit to have.
 
 
 Description: Identify the newspapers of record in the places where a candidate has spent his or her professional career. Ensure that the Lexis Nexis news database includes comprehensive content from these newspapers. If it does not, we will subscribe for online access to any additional newspapers needed for the duration of our research. Ensure that we subscribe to any relevant, archived content available from these newspapers as well.
 
 Uses:
+
 Background and Family
 
  - FInd press coverage of a candidate and his or her family in their hometown
@@ -810,6 +1691,10 @@ Professional History
 Political History
 
  - Identify local issues related to a candidate and voters in his or her district or state
+
+Educational History
+
+Associated People
 
 
 ### Marriage Indexes
@@ -824,9 +1709,44 @@ Links:
 Description: Depending on the jurisdiction, there may be a publicly available index of marriage licenses, either at the county or the municipal level. See for example thge Miami-Dade County marriage license search (https://www2.miamidadeclerk.gov/mlsweb/licensesearch.aspx) or the New York City marriage index (https://www.nycmarriageindex.com/).  
 
 Uses:
+
 Background and Family
 
  - Identify any current or previous marriages for the candidate
+
+
+### Mastodon
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://joinmastodon.org/
+
+
+Description: Mastodon is a free and open-source software for running self-hosted social networking services. It has microblogging features similar to Twitter, which are offered by a large number of independently run nodes, known as instances or servers, each with its own code of conduct, terms of service, privacy policy, privacy options, and content moderation policies. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### MeWe
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://mewe.com/register
+
+
+Description: MeWe is a social media and social networking service, also known as Sgrouples, Inc. It has been described as a Facebook alternative due to its focus on data privacy. Users can post text and images to a feed, react to others' posts, post animated GIFs, create specialized groups, post disappearing content, and chat with other users. MeWe is the largest decentralized social network. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### Medical Licensing Boards
@@ -841,6 +1761,7 @@ Links:
 Description: State medical licensing boards generally provide information to the public on the qualifications and licensing of medical professionals. A call to the state regulator or public-record request may be necessary to obtain full copies of any license applications and related documents, which generally require disclosure of any criminal cases or civil judgments filed against the licensee.
 
 Uses:
+
 Professional History
 
  - Verify a candidate's license to practice medicine
@@ -855,6 +1776,23 @@ Associated People
  - Identify a licensee's associates
 
 
+### Medium
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://medium.com/
+
+
+Description: Medium is a social publishing platform where people various stories, ideas, and perspectives. Anyone can write for the platform, so you could use this platform to find writings on or about your candidate or individuals close to your candidate. 
+
+Uses:
+
+Social Media
+Associated People
+
+
 ### Military Records
 
 *Federal Records*
@@ -867,6 +1805,7 @@ Links:
 Description: The National Personnel Records Center of the National Archives provdes public access to certain military records pursuant to the Freedom of Infromation Act. These must be requested as detailed on the NRC website.
 
 Uses:
+
 Professional History
 
  - Verify a candidate's claimed military service
@@ -884,9 +1823,27 @@ Links:
 Description: Despite its name, many of the entries in the mugshots.com database do not include mugshots but rather present details on the booking of a suspect into jail. Search results can be narrowed by state and county.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Search for mugshots and bookings of a candidate
+
+
+### NEXUS Mountain Network
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.nexusmountainnetwork.com/
+
+
+Description: NEXUS Mountain Network is a Christian-based social network. It’s allegedly built on a vision of Christian supremacy in America and has gained some traction with GOP politicians. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### Open Corporates
@@ -901,6 +1858,7 @@ Links:
 Description: Open Corporates is a free database of companies across every state and many countries internationally. It allows users to search for companies by both company name and director name. By allowing a nationwide search of company data, Open Corporates helps identify companies in which the candidate may serve as an officer or director but which are chartered outside the states in which the candidate is known to have lived. For users who register and log in, Open Corporates also allows a search by registered address as one of its advanced search options. These searches should be conducted for each of the candidate's known addresses. As a secondary source, any information gathered from Open Corporates should be verified by obtaining copies of original documents from the relevant Secretaries of State.
 
 Uses:
+
 Professional History
 
  - Search nationwide and internationally for companies in which the candidate has served as a director
@@ -909,6 +1867,32 @@ Professional History
 Associated People
 
  - Identify people who have been associated with the same companies as a candidate
+
+Personal Finances
+
+
+### OpenSecrets
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.opensecrets.org/
+
+
+Description: OpenSecrets is a government transparency group working to track money in politics and how it impacts elections and policy. When trying to understand your candidates campaign finances, this is a very useful source. You can also see connections between candidates on their database. 
+
+The Personal Finances Breakdown walks through the main types of information that has to be included on PFDs. We have included links to the instructions for filing PFDs in the Senate and House of Representatives, but this page through OpenSecrets simplifies it in an accessible way. 
+
+Uses:
+
+Political History
+
+Campaign Finance
+
+Associated People
+
+Personal Finances
 
 
 ### Other Professional and Business Licensing Bodies
@@ -923,6 +1907,7 @@ Links:
 Description: Dozens of professions require some form of professional license in most states. These include realtors, CPAs, barbers, general contractors, and private investigators. Restaurants, bars and other retail businesses generally require a municipal license to operate. Licensing details and filings submitted to apply for these types of licenses can be invaluable resources. For example, an application for a liquor license likely needs to disclose the beneficial ownership of the establishment, a detail that is often not included in publicly filed corporate records. Many professionals and business owners also need to disclose any criminal cases or civil judgments filed against them when they apply for these licenses. Review whatever is available online and then consider calling the state or local agency that issued the license to learn what else is publicly available. If a state public-records request is necessary, file one immediately.
 
 Uses:
+
 Professional History
 
  - Identify professional licenses held by a candidate
@@ -950,6 +1935,7 @@ Description: PACER is the database for court records from federal trial and appe
 To understand a case, at a minimum, you will need to read the complaint (or charging document in a criminal case), any opinons and orders on motions to dismiss, any answers filed by defendants, and any records related to the resolution of the case, whether a stipulation of dismissal, jury verdict, judgment, or other record. The same will be true of any state-level cases you identify. You may need to look up certain legal terminology that you encounter. Take your time with any cases and summarize them in clear, concise language as these are often the most important findings on any subject.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Search for any federal cases - either criminal or civil - in which a candidate is a party
@@ -962,6 +1948,57 @@ Associated People
  - Identify any litigation adversaries 
 
 
+### Parler
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://parler.com/
+
+
+Description: Parler is an alt-tech social networking service associated with conservatives. When it first launched, Parler marketed itself as a free speech-focused and unbiased alternative to mainstream social networks such as Twitter and Facebook. The platform itself is currently inaccessible, but the website it available. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Patriots.win
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://patriots.win
+
+
+Description: This used to be thedonald.win, and it’s a far-right online forum created as a successor to the r/The_Donald subreddit, which was banned from Reddit in June 2020. This site is popular with extremists and frequently hosts violent, antisemitic and racist content. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### PayPal
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.paypal.com/
+
+
+Description: Paypal is a digital financial services platform. Users can hold funds in accounts on Paypal and use the platform to make or receive payments or transfer their funds to other banking/financial services. If users leave their transaction history open, this data can be searched to provide information about a given person's financial history.
+
+Uses:
+
+Social Media
+Associated People
+
+
 ### Personal Financial Disclosures
 
 *Federal Records*
@@ -971,9 +2008,10 @@ Links:
 - Personal Financial Disclosure - House
 - Personal Financial Disclosure - Senate
 - Office of Government Ethics
+- State-level PFD websites and requirements vary by state
 - The White House
-- House
-- Senate
+- Instruction for filing PFDs - House
+- Instructions for filing PFDs - Senate
 
 
 Description: Most candidates for elected office are required to submit a personal financial disclosure. The Senate and House each maintain their own databases of financial disclosures, which include both annual financial disclosures and periodic transaction reports. Annual disclosures present a somewhat comprehensive but imprecise summary of a candidate's assets and liabilities, while periodic transaction reports disclose specific transactions in publicly traded securities, such as sales of publicly traded shares. 
@@ -983,6 +2021,7 @@ Candidates who have previously served in the executive branch of government may 
 Candidates who have previously held elected office at the state level will have filed financial disclosures with their state-level election authority, often the Secretary of State. The level of detail in these reports will vary from state to state, and it is not likely that any states require periodic transaction reports such as those required of members of Congress and executive branch officials.
 
 Uses:
+
 Personal Finances
 
  - Determine which disclosures can be verified in other public records
@@ -1003,15 +2042,41 @@ Associated People
 
 Links:
 
-- Pimeyes.com
+- Pimeyes.com 
 
 
 Description: This appears to be the best available reverse image search option because unlike other searches, it uses facial recognition technology. This is almost certainly how pornographic videos of Virginia House of Delegates candidate Susanna Gibson were discovered. Save several photos of a candidate's face and then upload them to Pimeyes.com. Search results are impressive and can include photos from the candidate's youth and photos of the candidate in a crowd.
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Identify online content related to a candidate, even if the candidate's name is not associated with the content
+
+
+### Pinterest Visual Search Tool
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.pinterest.com/pin/230809549630877500/
+
+
+Description: The Pinterest Visual Search tool allows you to take a picture of an item and then use that image to search for products on Pinterest. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Politwoops
@@ -1026,7 +2091,8 @@ Links:
 Description: Because of changes to Twitter's API, this Pro Publica database is no longer being updated. It is still useful as a repository of past deleted tweets.
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Identified tweets that politicians have deleted
 
@@ -1043,6 +2109,7 @@ Links:
 Description: The ProPublica Nonprofit Explorer provides access to many of the same records as the IRS Tax-Exempt Organization Search. However, it allows a full-text search across IRS Form 990s, whereas the IRS database is only searchable by organization name. Thus, the ProPublica database allows researchers to search for nonprofits in which a specific person has served as an officer, director, key employee or key contractor. The full-text search can also identify organizations that received grants from nonprofits and individuals who made significant contributions to private foundations. The ProPublica database also sometimes has copies of Form 990s that are absent from the IRS database.
 
 Uses:
+
 Nonprofits
 
  - Verify the existence and nonprofit status of a charity
@@ -1053,6 +2120,26 @@ Nonprofits
 Associated People
 
  - Identify individuals who have participated in the same nonprofits as a candidate
+
+
+### ProPublica: Tracking PPP
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://projects.propublica.org/coronavirus/bailouts/
+
+
+Description: This ProPublica search tool collects and presents information concerning businesses that applied to and received monetary relief from the U.S. Paycheck Protection Program, otherwise known as PPP loans. This also provides information concerning how much was paid out and how much of those loans are outstanding, have been paid down or have been forgiven.
+
+Uses:
+
+Background and Family
+Professional History
+Nonprofits
+Personal Finances
+Associated People
 
 
 ### Public-Record Requests
@@ -1067,6 +2154,7 @@ Links:
 Description: As you conduct your research, consider additional public-record requests to federal, state or local government agencies that might shed further light on issues involving a candidate. For example, if a candidate previously worked for a government agency, we might submit a public-record request for the candidate's professional calendar during that employment. If we know of a specific company that lobbied the candidate in a previous role, we might request any communications between the candidate and that company. Public-record requests will be most effective if they are narrowly targeted and if responsive records will not include personal information requiring redaction.
 
 Uses:
+
 Professional History
 
  - Verify the employment history of a candidate with government experience
@@ -1074,6 +2162,12 @@ Professional History
 Associated People
 
  - Identify the people with whom a government official has met
+
+Political History
+
+Background and Family
+
+Personal Finances
 
 
 ### Recorders of Deeds
@@ -1102,6 +2196,7 @@ The following common types of records may be filed with the recorder of deeds or
  - Military Discharges -- in some jurisdictions, veterans can choose to publicly file their military discharges
 
 Uses:
+
 Background and Family
 
  - Search for marriage licenses, if available in the relevant jurisdiction
@@ -1123,6 +2218,75 @@ Associated People
 
  - Idenitfy the counterparties in any transactions involving the candidate
  - Idenitify any creditors of the candidate
+
+
+### Reddit
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.reddit.com/
+
+
+Description: Reddit is an American social news aggregation, content rating, and forum social network. Registered users submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members.
+
+Uses:
+
+Background and Family
+Social Media
+Associated People
+
+
+### Redfin
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.redfin.com/
+
+
+Description: Redfin is a search engine for real estate listings. It provides information about properties for sale or for rent in a specified geographic area. It also provides information about prior sales and transactions concerning a given property.
+
+Uses:
+
+Background and Family
+
+
+### Rocket.Chat
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.rocket.chat/open-source-communications-platform?utm_device=c&utm_term=rocket%20chat&utm_campaign=brand_sr_us_generic&utm_source=adwords&utm_medium=ppc&hsa_acc=7547430168&hsa_cam=12814926205&hsa_grp=121811202672&hsa_ad=516425349547&hsa_src=g&hsa_tgt=kwd-314268247829&hsa_kw=rocket%20chat&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqU99oFupS3-lB2cQZOvvwCqJjNwDx3BVsGZLjLSLks3VUE7cXAX7XgaAucrEALw_wcB
+
+
+Description: Rocket. Chat is a customizabl open source communications platform for orgs that have high standards for data protection and privacy. 
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Rumble
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://rumble.com/
+
+
+Description: This is a video platform similar to YouTube. It has less censorship than YouTube. 
+Rumble also offers a variety of monetization options for creators. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### SEC Edgar Full Text Search
@@ -1147,6 +2311,7 @@ The following common types of filings are available in the SEC Edgar Full Text d
  - Form 13F, a quarterly snapshot of the publicly traded securities held by a fund manager, required of funds holding at least $100 million in publicly traded securities
 
 Uses:
+
 Professional History
 
  - Identify publicly traded companies for which a candidate has served as a director
@@ -1158,9 +2323,11 @@ Professional History
  - Review summaries of significant litigation involving publicly traded companies
  - Find Form Ds on the financing of privately held companies
 
- Associated People
+Associated People
 
  - Identify others with whom a candidate has served as a director or executive for a publicly traded company
+
+Personal Finances
 
 
 ### SEC Investment Adviser Public Disclosure
@@ -1175,6 +2342,7 @@ Links:
 Description: Investment advisers are finance professionals who manage funds for investors. They are often called fund managers, and depending on the types of investments they make, they might call their funds hedge funds, private equity funds or venture capital funds. Fund managers with at least $150 million in assets under management must register with the SEC and file a Form ADV, which includes information on the names of the funds that  they manage, the values of these funds, and the officers and beneifical owners of the investment adviser.
 
 Uses:
+
 Professional History
 
  - Search for registered investment advisers, such as private equity firms
@@ -1210,6 +2378,7 @@ As the administrator of elections, the Secretary of State also often provides in
 If the Secretary of State in the jurisdiction you are researching does not provide access to these records, research the state's government agencies and find the appropriate agency for this research.
 
 Uses:
+
 Professional History
 
  - Idenitfy companies in which the candidate has served as a director, officer or registered agent
@@ -1225,6 +2394,30 @@ Political History
  - Obtain financial disclosures for state-level candidates and elected officials
  - Search for state-level campaign contributions
  - Search for state-level lobbying disclosures
+
+Personal Finances
+
+
+### Secretary of State business searches
+Delaware
+Florida
+Nevada
+Texas
+
+*State and Local Records*
+
+Links:
+
+- https://www.e-secretaryofstate.com/
+
+
+Description: The first link allows you to see all Secretary of State business searches, but we have also included the ones for Delaware, Florida, Nevada, and Texas, all states which should be searched when looking for a business connected to the candidate. 
+
+Uses:
+
+Professional History 
+Nonprofits
+Associated People
 
 
 ### Senate Lobbying Disclosure Act Database
@@ -1247,6 +2440,7 @@ Be aware that the fees reported in lobbying disclosures are rounded to the neare
 Guidance on understanding the Lobbying Disclosure Act's reporting requirements can be found here: https://lobbyingdisclosure.house.gov/ldaguidance.pdf  
 
 Uses:
+
 Professional History
 
  - Identify whether a candidate has previously registered as a lobbyist
@@ -1265,6 +2459,23 @@ Associated People
 - Identify the clients of any lobbyists who have contributed to a candidate's campaign committee
 
 
+### Signal 
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://signal.org/
+
+
+Description: Signal is an encrypted messaging service for instant messaging, voice, and video calls. The instant messaging function includes sending text, voice notes, images, videos, and other files. Communication may be one-to-one between users or may involve group messaging. 
+
+Uses:
+
+Social Media
+Associated People
+
+
 ### SignalHire
 
 *Proprietary Database*
@@ -1277,6 +2488,7 @@ Links:
 Description: SignalHire draws from LinkedIn profiles and other data to provide a database of both professional histories and contact information. The contact information in SignalHire complements the contact information in TLO, and the database appears to include information from cached LinkedIn profiles as well.
 
 Uses:
+
 Background and Family
 
  - Identify email addresses and phone numbers used by the candidate
@@ -1284,6 +2496,23 @@ Background and Family
 Professional History
 
  - Identify material deleted from past versions of LinkedIn profiles
+
+
+### Snapchat
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.snapchat.com/
+
+
+Description: Snapchat is a social media and ephemoral photo/video sharing platform. Images/videos are shared as "snaps," or media with a fixed lifetime after which they cannot be opened. The platform also supports messaging, commenting on media and user-following.
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### State Bar Associations
@@ -1298,6 +2527,7 @@ Links:
 Description: State bar associations generally provide a publicly available member directory that allows members of the public to verify an attorney's license. These databases generally also include information on any disciplinary actions associated with a license and might also include a business address and educational history for each licensed attorney. Like FINRA, state bar associations are private organizations even though they serve a public function, and as private organizations, they are not subject to state-level open records laws. 
 
 Uses:
+
 Professional History
 
  - Verify a candidate's license to practice law
@@ -1318,6 +2548,7 @@ Links:
 Description: States differ in the availability of vehicle registration information and driving records to the third parties. In many cases, we will not be able to search directly at the state DMV for vehicles registered to a candidate. It is nevertheless good practice to familiarize yourself with the availability of registration and driving records in each state. Some TLO reports include current and historical vehicle registration information, which we can use for leads although as a secondary source, TLO registration data is not authoritative.
 
 Uses:
+
 Personal Finances
 
  - Identify vehicles registered to a candidate currently and historically
@@ -1337,6 +2568,7 @@ Description: Many states offer a public website that allows users to verify vote
 States also differ in the accessibility of voter registration information for third parties. If a state voter registrations website clearly indicates that it is only intended for a voter seeking to verify his or her own voter registration information, do not use it to access another person's voter registration.
 
 Uses:
+
 Background and Family
 
  - Identify the address that a candidate has used to register to vote
@@ -1358,6 +2590,7 @@ Links:
 Description: States, counties and municipal governments generally provide publicly available information on government contract awards, although these databases may be less user-friendly and less comprehensive than federal databases.
 
 Uses:
+
 Professional History
 
  - Search for government contracts awarded to a candidate or a candidate's companies
@@ -1383,6 +2616,7 @@ The structure of the courts varies from state to state, and the nature and avail
 Conduct research to find all of the relevant courts and their case indexes, and search for any civil or criminal cases naming the canidate. For any cases that you find, write a summary of the case using any records that are available, and save the supporting documents in the project folder. You may need to research unfamiliar legal or financial terminology. Take the time necessary to understand the case thoroughly and present a concise summary of it.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify any state-level civil or criminal cases in which a candidate has been named a party
@@ -1391,6 +2625,8 @@ Associated People
 
  - Identify any associates named in court records
  - Identify any litigation adversaries 
+
+Personal Finances
 
 
 ### Statewide Criminal History Checks
@@ -1405,9 +2641,45 @@ Links:
 Description: Many states, but not all, provide a publicly accessible, statewide criminal history database. Other states only individuals to access their own criminal histories or require third parties to have the subject's signed consent. Determine which of the jurisdictions where the candidate has lived offer a statewide criminal history check and run these searches wherever possible.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify any criminal cases or convictions for a candidate
+
+
+### Strava
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.strava.com/
+
+
+Description: Strava is a social media and fitness tracking website. It enables users to log and compare their fitness activity and to connect with other people sharing similar fitness information. Users can share data logged from fitness tracking devices e.g. smart watches. Because of this, Strava can be a fruitful resource when looking for GPS data from a given person. For example, if your candidate is an avid user of Strava, you can decipher where they live, at least within a mile from their home. 
+
+Uses:
+
+Background and Family
+Social Media
+Associated People
+
+
+### Substack
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://substack.com/
+
+
+Description: Substack is a blogging and newsletter platform. The website provides writers with hosting and distribution services and serves a search engine and recommendation system for users to find similar newsletters and writing. You can use this website to find writing and information on specific topics. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### TLO & LexisNexis
@@ -1424,6 +2696,7 @@ Description: TLO is a proprietary database that aggregates information from “cre
 You will not have direct access to TLO but will receive TLO reports from Sunlight Search staff. Keep TLO in mind and request additional research or reports from Sunlight Staff if you develop leads that require it.
 
 Uses:
+
 Background and Family
 
  - Identify the full name and date of birth of the candidate as well as any aliases
@@ -1472,6 +2745,7 @@ Many states offer homestead exemptions, which reduce the property taxes owed on 
 In addition to taxing real property, many states also tax "personal property," or any property that is moveable, such as cars, watercraft, product inventory, and office equipment. Determine whether the candidate lives in such a state and whether personal property tax records are publicly available. 
 
 Uses:
+
 Professional History
 
  - If available, search for any business personal property owned by a business
@@ -1491,6 +2765,98 @@ Associated People
  - If an assessor map is available, identify neighboring properties and their owners
 
 
+### Telegram
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://telegram.org/
+
+
+Description: Telegram is a cloud-based, cross-platform, encrypted instant messaging service. It's used for content sharing, encryption, messaging and online chat, money transfers, online payments, photo and video sharing, screen capture, and voice chat.  This doesn’t require a phone number for use, and it has Secret Chats, which is part of the appeal.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### TinEye
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://tineye.com/
+
+
+Description: TinEye is a reverse image search engine. When uploading an image, you can find out where it came from, how it's being used, if modified versions of the image exist, or if there are higher resolution versions. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Trulia
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.trulia.com/
+
+
+Description: Trulia is a search engine for real estate listings. It provides information about properties for sale or for rent in a specified geographic area. It also provides information about prior sales and transactions concerning a given property.
+
+Uses:
+
+Background and Family
+
+
+### Truth Social
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://truthsocial.com/
+
+
+Description: Truth Social is an alt-tech social media platform owned by Trump Media & Technology Group, which is majority-owned by Donald Trump. It has been described as similar to Twitter/X, as it's trying to provide an alternative to Twitter/X and Facebook. When it launched, Truth Social proclaimed itself as a "big tent" platform without political censorship, allowing for "free expression" without "discriminating on the basis of political ideology".
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Tumblr
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.tumblr.com/
+
+
+Description: This is a microblogging and social media site encouraging short and medium format posts and media hosting (mostly images). Though it is less popular now, the site had a lot of traffic in the early-, mid-2010's. The site can provide insight into a person of interest's personal views or personal media.
+
+Uses:
+
+Social Media
+Associated People
+
+
 ### Twitter/X
 
 *Media and Other Open Sources*
@@ -1503,7 +2869,8 @@ Links:
 Description: Twitter's advanced search allows researchers to search for specific terms in a candidates tweets. Searches can also be narrowed by timeframe. You can also search for tweets from a specific user mentioning another user. Explore these features to look for patterns in a candidate's Twitter activity or identify any embarassing content. Be awar ethatsome tweets may have geolocation tags, which canhelp track a candidate's movements over time.
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Review a candidate's Twitter activity 
 
@@ -1524,6 +2891,7 @@ Links:
 Description: This database is not searchable by owner name, so it is only helpful if you know the name or other identifying details on a specific vessel. Many vessels are also not federally titled but instead titled with a state authority, often the DMV.
 
 Uses:
+
 Personal Finances
 
  - Look up the ownership of a vessel if you know its name, hull number, call sign or primary vessel ID
@@ -1541,6 +2909,7 @@ Links:
 Description: The US Court of Federal Claims is a venue for citizens filing claims against the federal government. There are two search resources for opinions and orders from this court. First, run a keyword search of all opinions and orders from 2014 to present at the following website: https://www.govinfo.gov/app/search/. Second, run a keyword search of opinions and orders from before 2014 at this website: https://ecf.cofc.uscourts.gov/cgi-bin/CFC_LegacyOpinions.pl  
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify any cases filed by a candidate in US Court of Federal Claims
@@ -1558,6 +2927,7 @@ Links:
 Description: The US Tax Court is where taxpayers can petition for adjudication of disputes with the IRS. Search for any petitions that a candidate has filed in this court and review any available records for information on any tax disputes involving the candidate.
 
 Uses:
+
 Civil Litigation and Criminal Cases
 
  - Identify any cases filed by a candidate in US Tax Court
@@ -1575,6 +2945,7 @@ Links:
 Description: This database is maintained by the Department of the Treasury, Bureau of Fiscal Service, and it has data on federal contract awards dating back to at least 2008. Its search feature is intuitive and self-explanatory.
 
 Uses:
+
 Professional History
 
  - Search for government contracts awarded to the candidate or his companies
@@ -1598,6 +2969,7 @@ Links:
 Description: This database allows searches by inventor name, applicant name and assignee name, among other options.
 
 Uses:
+
 Professional History
 
  - Search for patents invented by a candidate or assigned to a candidate
@@ -1620,10 +2992,36 @@ Links:
 Description: The USPTO trademark database allows searches by trademark name, owner name and owner address. Be sure to use each option to search for any trademarks registered to a candidate, a candidate's known businesses, or using a candidate's known addresses.
 
 Uses:
+
 Professional History
 
  - Search for trademarks registered to a candidate or a candidate's companies
  - Search for trademarks registered to a candidate's known addresses
+
+
+### Valital (paid)
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.valital.com/
+
+
+Description: Valital is a paid resource that searches publiclt available information. Using it, you can extract, filter and analyze online media on various people and organizaitons you want to research. It creates a well-organized clip search that makes it easy to know where to start with your research. 
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### Venmo
@@ -1638,7 +3036,8 @@ Links:
 Description: Review any publicly available payment history on a candidate's Venmo account. If you are unable to find a candidate's Venmo account using the candidate's name, try searching with knonwn phone numbers and email addresses.
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Review a candidate's Venmo activity 
 
@@ -1659,6 +3058,7 @@ Links:
 Description: Vessel tracking websites function almost exactly the same as aircraft tracking websites. Current locations and recent ports of call for vessels are publicly available for free, while historical movements generally require a purchase. Use these resources if the candidate has been tied to a yacht.
 
 Uses:
+
 Personal Finances
 
  - Track the current and historical movements of vessels
@@ -1676,6 +3076,7 @@ Links:
 Description: Like Whoxy, ViewDNS.Info provides a variety of searches related to domain registrations and other aspects of website infrastructure. Its reverse WhoIS lookup by email address can provide records that are not in Whoxy, so both searches should be conducted as complements to one another. 
 
 Uses:
+
 Professional History
 
  - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
@@ -1693,6 +3094,7 @@ Links:
 Description: The Wayback Machine archives and preserves websites. It has two key features. First, a researcher can enter a specific URL and view the website at the URL as it appeared on certain past dates when it was captured and archived by the Wayback Machine. Second, a user can conduct a keyword search and identify archived Internet content associated with the keyword. For example, if a candidate was an exeuctive of a defunct company that no longer has a website, a researcher can enter the defunct company's name into the Wayback Machine keyword search to try to find archived versions of the company's website.
 
 Uses:
+
 Professional History
 
  - Search for archived versions of company websites
@@ -1704,6 +3106,23 @@ Political History
 Associated People
 
  - Use archived websites to identify past business associates of a candidate
+
+
+### WhatsApp
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://www.whatsapp.com/
+
+
+Description: WhatsApp is an instant messaging and voice-over-IP service owned by technology conglomerate Meta. It allows users to send text, voice messages and video messages, make voice and video calls, and share images, documents, user locations, and other content. 
+
+Uses:
+
+Social Media
+Associated People
 
 
 ### White House Visitor Logs
@@ -1718,6 +3137,7 @@ Links:
 Description: Visitors who enter the White House together appear to receive the same identification number, which can be found in the logs. These can be downloaded to Excel for analysis.
 
 Uses:
+
 Political History
 
  - Identify whether a candidate or a candidate's associates have visited the White House
@@ -1739,9 +3159,77 @@ Links:
 Description: Whoxy allows a variety of searches related to domain registration records. Its most useful feature is its free historical domain registration data. For a given domain, you can gather information on its past registration details. Often, domains might be currently registered to a service such as GoDaddy, but in the past, they may have been registered to a speciifc email address identifying the website's owner. Use any known email addresses for a candidate to search for any current or historical domain registrations for the candidate.
 
 Uses:
+
 Professional History
 
  - Identify domains currently or previously registered to a candidate or the candidate's known email addresses
+
+
+### Wire
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://wire.com/en
+
+
+Description: Wire is an encrypted communication and collaboration app created by Wire Swiss. It is available for iOS, Android, Windows, macOS, Linux, and web browsers such as Firefox.
+
+Uses:
+
+Social Media
+Associated People
+
+
+### Yahoo Image Search
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://images.search.yahoo.com/?guccounter=1
+
+
+Description: Yahoo Image Search is another image finder page, but you can also find various visuals, including photos, vectors, screenshots, icons, and more.
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
+
+
+### Yandex
+
+*Media and Other Open Sources*
+
+Links:
+
+- https://yandex.com/
+
+
+Description: Yandex is a suite of internet search tools hosted by Yandex, LLC, a russian technology company. You can use Yandex tools to search for information on the internet. This site is notable for indexing networks and pages on the internet outside of the west and is useful when searching for information concerning individuals in eastern europe, Russia, and central asia.
+
+Uses:
+
+Background and Family
+Educational History
+Professional History
+Political History
+Civil Litigation and Criminal Cases
+Nonprofits
+Campaign Finance
+Personal Finances
+Social Media
+Associated People
 
 
 ### YouTube
@@ -1756,7 +3244,8 @@ Links:
 Description: Use YouTube to find videos of press conferences and campaign rallies held by a candidate. Use the transcript, available at the bottom of most videos, to avoid needing to view videos intheir entirety. Use the visuals to identify anything of interest about the setting of an event. Is the event on private property? Can we determine who owns it and whether use of the property has been properly disclosed as an in-kind contribution? Does the owner have business withthe government and has he or she contributed to the candidate's campaign? Are there aircraft visible in the picture?
 
 Uses:
-Social Media and Other Internet Sources
+
+Social Media
 
  - Review a candidate's YouTube activity 
  - Review videos of press conferences and campaign events
@@ -1774,6 +3263,7 @@ Links:
 Description: Zillow is a free website that provides photos and data on real property throughout the US. Its property data is generaly sourced from county-level tax assessors, described above. As primary sources, tax assessor records are more reliable and should be used to verify anything reported in Zillow. However, Zillow complements tax assessor data by also providing data on a property's listing history. For example, Zillow may report that a property owned by a candidate was recently listed for rent, suggesting that the candidate may no longer be living there. 
 
 Uses:
+
 Professional History
 
  - Identify the listing history of a specific real estate agent
@@ -1783,5 +3273,59 @@ Personal Finances
  - Find an estimate of the current market value of a property
  - Search for any previous listings of a property, for rent or for sale
  - Identify the real estate agents who listed a property or brokered a specific transaction
+
+
+### ancestry.com
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://ancestry.com/
+
+
+Description: This is a geneaology research site that provides document aggregation and connection services to users seeking to establish family trees and research their own ancestry. The site can also be used to research other people's family trees and ancestry.
+
+Uses:
+
+Background and Family
+Educational History
+Social Media
+Associated People
+
+
+### findagrave.com
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://findagrave.com/
+
+
+Description: Find a Grave is a collection of burial records worldwide, holding millions of cemetery records. You can search for an individual's name to find their grave, and often it'll provide an image of their headstone. 
+
+Uses:
+
+Background and Family
+Associated People
+
+
+### yearbook.org
+
+*Media and Other Open Sources*
+
+Links:
+
+- http://yearbook.org/
+
+
+Description: Yearbook.org is a website where you can search yearbooks based on graduation year. You can also search for alumni on this website. 
+
+Uses:
+
+Background and Family
+Educational History
+Associated People
 
 

@@ -19,7 +19,7 @@ def write_title(filename):
 def write_search_table(df,filename):
     with open(filename,'a') as f:
         pf = lambda x: print(x, file=f)
-        categories_list = [re.findall('(.+)\n\n -',s) for s in df['Use This Resource To:'] if isinstance(s,str)]
+        categories_list = [re.findall('^[^-].+',s) for s in df['Use This Resource To:'] if isinstance(s,str)]
         categories_unique = np.unique([c for cc in categories_list for c in cc])
         pf('## CONTENTS BY USE')
         for category in categories_unique:
@@ -43,13 +43,18 @@ def write_resource_list(df,filename):
                     pf(f'- {link}')
                 pf('\n')
             pf(f'Description: {row.Description}\n')
-            pf(f'Uses:\n{row["Use This Resource To:"]}')
+            pf(f'Uses:\n\n{row["Use This Resource To:"]}')
             pf('\n')
+
+def convert_to_docx(filename):
+    out_filename = filename.split('.')[0] + '.docx'
+    os.system(f'pandoc {filename} -f markdown -o {out_filename}')
 
 def write_report(df,filename='./research-guide.txt'):
     write_title(filename)
     write_search_table(df,filename)
     write_resource_list(df,filename)
+    convert_to_docx(filename)
 
 def main():
     research_df = get_research_table()
