@@ -40,14 +40,15 @@ def write_resource_list(df,filename):
                 link_list = [r for r in row.Link.split('\n') if len(r) > 0]
                 pf(f"Links:\n")
                 for link in link_list:
-                    pf(f'- {link}')
+                    pf(f'- [{link}]({link})')
                 pf('\n')
             pf(f'Description: {row.Description}\n')
-            pf(f'Uses:\n\n{row["Use This Resource To:"]}')
+            resource_out_str = row['Use This Resource To:'].replace('\n','\n\n')
+            pf(f"Uses:\n\n{resource_out_str}")
             pf('\n')
 
 def convert_to_docx(filename):
-    out_filename = filename.split('.')[0] + '.docx'
+    out_filename = os.path.basename(filename).split('.')[0] + '.docx'
     os.system(f'pandoc {filename} -f markdown -o {out_filename}')
 
 def write_report(df,filename='./research-guide.txt'):
